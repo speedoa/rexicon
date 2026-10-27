@@ -1,0 +1,10 @@
+{
+  "name": "rexicon 图标包",
+  "description": "我的个人 Emby 图标库",
+  "icons": [
+    {
+      "name": "示例图标",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/example.png"
+    }
+  ]
+}

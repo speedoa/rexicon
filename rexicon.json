@@ -85,6 +85,54 @@
     {
       "name": "Obsidian",
       "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-28-obsidian.png"
+    },
+    {
+      "name": "Pure Yellow",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-39-pure-yellow.png"
+    },
+    {
+      "name": "Lemon Yellow",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-40-lemon-yellow.png"
+    },
+    {
+      "name": "Sunflower Yellow",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-41-sunflower-yellow.png"
+    },
+    {
+      "name": "Amber Yellow",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-42-amber-yellow.png"
+    },
+    {
+      "name": "Champagne Yellow",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-43-champagne-yellow.png"
+    },
+    {
+      "name": "Mustard Yellow",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-44-mustard-yellow.png"
+    },
+    {
+      "name": "AVDB Play Blue",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/avdb-a-play-blue-1024.png"
+    },
+    {
+      "name": "AVDB Play Graphite",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/avdb-a-play-graphite-1024.png"
+    },
+    {
+      "name": "AVDB Play Violet",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/avdb-a-play-violet-1024.png"
+    },
+    {
+      "name": "AVDB Play Violet Mark",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/avdb-a-play-violet-mark-transparent.png"
+    },
+    {
+      "name": "AVDB AV Ribbon Violet",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/avdb-av-ribbon-violet-1024.png"
+    },
+    {
+      "name": "AVDB Media Library Violet",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/avdb-media-library-violet-1024.png"
     }
   ]
 }

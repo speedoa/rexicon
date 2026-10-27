@@ -133,6 +133,22 @@
     {
       "name": "AVDB Media Library Violet",
       "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/avdb-media-library-violet-1024.png"
+    },
+    {
+      "name": "AVDB Premium Graphite",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/avdb-premium-graphite-1024.png"
+    },
+    {
+      "name": "AVDB Premium Plum Transparent",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/avdb-premium-plum-transparent.png"
+    },
+    {
+      "name": "AVDB Premium Midnight",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/avdb-premium-midnight-1024.png"
+    },
+    {
+      "name": "AVDB Premium Plum",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/avdb-premium-plum-1024.png"
     }
   ]
 }

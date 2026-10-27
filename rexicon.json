@@ -1,10 +1,86 @@
 {
   "name": "rexicon 图标包",
-  "description": "我的个人 Emby 图标库",
+  "description": "REX ICON 图标库",
   "icons": [
     {
-      "name": "示例图标",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/example.png"
+      "name": "Sapphire",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-09-sapphire.png"
+    },
+    {
+      "name": "Midnight",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-10-midnight.png"
+    },
+    {
+      "name": "Glacier",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-11-glacier.png"
+    },
+    {
+      "name": "Peacock",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-12-peacock.png"
+    },
+    {
+      "name": "Pine",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-13-pine.png"
+    },
+    {
+      "name": "Sage",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-14-sage.png"
+    },
+    {
+      "name": "Matcha",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-15-matcha.png"
+    },
+    {
+      "name": "Olive Gold",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-16-olive-gold.png"
+    },
+    {
+      "name": "Honey",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-17-honey.png"
+    },
+    {
+      "name": "Terracotta",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-18-terracotta.png"
+    },
+    {
+      "name": "Burgundy",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-19-burgundy.png"
+    },
+    {
+      "name": "Raspberry",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-20-raspberry.png"
+    },
+    {
+      "name": "Dusty Rose",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-21-dusty-rose.png"
+    },
+    {
+      "name": "Grape",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-22-grape.png"
+    },
+    {
+      "name": "Iris",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-23-iris.png"
+    },
+    {
+      "name": "Lavender",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-24-lavender.png"
+    },
+    {
+      "name": "Steel Blue",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-25-steel-blue.png"
+    },
+    {
+      "name": "Mocha",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-26-mocha.png"
+    },
+    {
+      "name": "Champagne",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-27-champagne.png"
+    },
+    {
+      "name": "Obsidian",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-28-obsidian.png"
     }
   ]
 }

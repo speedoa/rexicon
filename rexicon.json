@@ -1,6 +1,6 @@
 {
   "name": "REX ICON图标",
-  "description": "REX ICON 图标库 · 共103个图标 作者：模块分享频道|SPEEDO",
+  "description": "REX ICON 图标库 · 共127个图标 by 模块分享频道 |Speedo ",
   "icons": [
     {
       "name": "海洋蓝",
@@ -413,6 +413,102 @@
     {
       "name": "REX · 正红色",
       "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-29-pure-red-rounded.png"
+    },
+    {
+      "name": "AVDB 珊瑚红（珠光）",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/16-avdb-pearl-colors/A04-avdb-coral-red-pearl-1024.png"
+    },
+    {
+      "name": "AVDB 玫瑰粉（珠光）",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/16-avdb-pearl-colors/A05-avdb-rose-pink-pearl-1024.png"
+    },
+    {
+      "name": "AVDB 琥珀金（珠光）",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/16-avdb-pearl-colors/A06-avdb-amber-gold-pearl-1024.png"
+    },
+    {
+      "name": "AVDB 翡翠绿（珠光）",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/16-avdb-pearl-colors/A07-avdb-jade-green-pearl-1024.png"
+    },
+    {
+      "name": "AVDB 湖青绿（珠光）",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/16-avdb-pearl-colors/A08-avdb-lake-cyan-pearl-1024.png"
+    },
+    {
+      "name": "AVDB 电光蓝（珠光）",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/16-avdb-pearl-colors/A09-avdb-electric-blue-pearl-1024.png"
+    },
+    {
+      "name": "AVDB 珊瑚红（透明）",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/16-avdb-pearl-colors/A04-avdb-coral-red-transparent-1024.png"
+    },
+    {
+      "name": "AVDB 玫瑰粉（透明）",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/16-avdb-pearl-colors/A05-avdb-rose-pink-transparent-1024.png"
+    },
+    {
+      "name": "AVDB 琥珀金（透明）",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/16-avdb-pearl-colors/A06-avdb-amber-gold-transparent-1024.png"
+    },
+    {
+      "name": "AVDB 翡翠绿（透明）",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/16-avdb-pearl-colors/A07-avdb-jade-green-transparent-1024.png"
+    },
+    {
+      "name": "AVDB 湖青绿（透明）",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/16-avdb-pearl-colors/A08-avdb-lake-cyan-transparent-1024.png"
+    },
+    {
+      "name": "AVDB 电光蓝（透明）",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/16-avdb-pearl-colors/A09-avdb-electric-blue-transparent-1024.png"
+    },
+    {
+      "name": "AVDB 播放-珊瑚红（珠光）",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/16-avdb-pearl-colors/AP04-a-play-coral-red-pearl-1024.png"
+    },
+    {
+      "name": "AVDB 播放-玫瑰粉（珠光）",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/16-avdb-pearl-colors/AP05-a-play-rose-pink-pearl-1024.png"
+    },
+    {
+      "name": "AVDB 播放-琥珀金（珠光）",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/16-avdb-pearl-colors/AP06-a-play-amber-gold-pearl-1024.png"
+    },
+    {
+      "name": "AVDB 播放-翡翠绿（珠光）",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/16-avdb-pearl-colors/AP07-a-play-jade-green-pearl-1024.png"
+    },
+    {
+      "name": "AVDB 播放-湖青绿（珠光）",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/16-avdb-pearl-colors/AP08-a-play-lake-cyan-pearl-1024.png"
+    },
+    {
+      "name": "AVDB 播放-电光蓝（珠光）",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/16-avdb-pearl-colors/AP09-a-play-electric-blue-pearl-1024.png"
+    },
+    {
+      "name": "AVDB 播放-珊瑚红（透明）",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/16-avdb-pearl-colors/AP04-a-play-coral-red-transparent-1024.png"
+    },
+    {
+      "name": "AVDB 播放-玫瑰粉（透明）",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/16-avdb-pearl-colors/AP05-a-play-rose-pink-transparent-1024.png"
+    },
+    {
+      "name": "AVDB 播放-琥珀金（透明）",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/16-avdb-pearl-colors/AP06-a-play-amber-gold-transparent-1024.png"
+    },
+    {
+      "name": "AVDB 播放-翡翠绿（透明）",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/16-avdb-pearl-colors/AP07-a-play-jade-green-transparent-1024.png"
+    },
+    {
+      "name": "AVDB 播放-湖青绿（透明）",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/16-avdb-pearl-colors/AP08-a-play-lake-cyan-transparent-1024.png"
+    },
+    {
+      "name": "AVDB 播放-电光蓝（透明）",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/16-avdb-pearl-colors/AP09-a-play-electric-blue-transparent-1024.png"
     }
   ]
 }

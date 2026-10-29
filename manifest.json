@@ -1,0 +1,1513 @@
+{
+  "count": 103,
+  "intent": "keep pearl rounded tile; remove only exterior square white canvas/corners",
+  "groups": {
+    "01-rex-colors": 45,
+    "02-rex-pearl": 8,
+    "03-bilibili": 3,
+    "04-douyin": 3,
+    "05-hongguo": 3,
+    "06-netease": 3,
+    "07-qqmusic": 3,
+    "08-huya": 3,
+    "09-children": 6,
+    "10-character-head": 6,
+    "11-character-fullbody": 6,
+    "12-tangxin": 3,
+    "13-avdb-concepts": 5,
+    "14-avdb-premium": 3,
+    "15-avdb-refined": 3
+  },
+  "all_source_files_unchanged": true,
+  "raster_interior_RGB_byte_identical": true,
+  "original_tile_corner_fits": [
+    {
+      "bottom": false,
+      "right": false,
+      "parameters": [
+        182.94999999999965,
+        171.25000000000026,
+        2.12162499999999,
+        4.943749999999993
+      ],
+      "fit_error_px2": 0.7024559553204323
+    },
+    {
+      "bottom": false,
+      "right": true,
+      "parameters": [
+        183.29000000000036,
+        188.52000000000078,
+        2.2098749999999763,
+        5.9112499999999955
+      ],
+      "fit_error_px2": 0.29678069640668303
+    },
+    {
+      "bottom": true,
+      "right": true,
+      "parameters": [
+        187.15999999999894,
+        184.5699999999996,
+        2.4135000000000133,
+        6.428750000000005
+      ],
+      "fit_error_px2": 0.6657146619910129
+    },
+    {
+      "bottom": true,
+      "right": false,
+      "parameters": [
+        163.96000000000055,
+        181.8000000000007,
+        2.2417499999999855,
+        4.00125
+      ],
+      "fit_error_px2": 0.3566520546118857
+    }
+  ],
+  "items": [
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-color-variants/square/rex-square-01-ocean-blue.png",
+      "display_name": "海洋蓝",
+      "source_sha256": "af92ff156f6091f62e655d8bd3c33326c0eb35b96390adfa504d802a5280f962",
+      "file": "01-rex-colors/rex-square-01-ocean-blue-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "76817e3026eb71ca44f782a6c0023c14c98f690ac89ded1cd5ef2b8ee8f96df5",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-color-variants/square/rex-square-02-lagoon-teal.png",
+      "display_name": "极光青",
+      "source_sha256": "f4415a3b20047db13212b129d9c9fc975e6f4486ac185f16eeb54417c642490f",
+      "file": "01-rex-colors/rex-square-02-lagoon-teal-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "1d05cc50f7e64e2eae9ad86dbbef2d53978cab727983ce6755419b7673b60f69",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-color-variants/square/rex-square-03-jade-green.png",
+      "display_name": "翡翠绿",
+      "source_sha256": "50d22721d9f01836b6d62ae574a6950e74a46784a41737d814e5a28ab66c5ac6",
+      "file": "01-rex-colors/rex-square-03-jade-green-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "27031ffa09eb95215ca8fb387634aff08e45d614839669502917ec73fa01714f",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-color-variants/square/rex-square-04-amber-gold.png",
+      "display_name": "琥珀金",
+      "source_sha256": "decff0728b4c721e7b4ca4309f0cfc6fa0063881b7d6033c6e78df8b9d44e583",
+      "file": "01-rex-colors/rex-square-04-amber-gold-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "7e22eae1363ad9f361539b1f0ef57ef514e59b3ea31159a934e075809cd4e3eb",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-color-variants/square/rex-square-05-coral-peach.png",
+      "display_name": "珊瑚橙",
+      "source_sha256": "455b8b5777ba3e4d08ae8de22b1c0bc3ba2c065e68292c52282cbb1a1481ff54",
+      "file": "01-rex-colors/rex-square-05-coral-peach-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "ddebc28b832f7846544a7f88c3b42dc63d25f674c44df86e6d6d6a4ec8092e2e",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-color-variants/square/rex-square-06-rose-pink.png",
+      "display_name": "玫瑰粉",
+      "source_sha256": "ec57625512853d2bd5842773e3a11bc97ac58515972f80adfb43f14f724f6df0",
+      "file": "01-rex-colors/rex-square-06-rose-pink-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "3a5143fb974949d7bc21d54f056ce8c985d51602e26b407fc3ba792c6d79409d",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-color-variants/square/rex-square-07-cherry-red.png",
+      "display_name": "樱桃红",
+      "source_sha256": "67c4297ea629eb927070ee640a23d12fa3db3263675f6d7b020bf73587e46450",
+      "file": "01-rex-colors/rex-square-07-cherry-red-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "40cf5007b42a5ee3fa0f4b9d33bc7015b7277967ae41474f5f3d3dcb2e098711",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-color-variants/square/rex-square-08-graphite-silver.png",
+      "display_name": "石墨银灰",
+      "source_sha256": "8e71e74c1750b96730d2e360510b2ff23fd52b0a8d41e90b78f0d1cd75ecaf83",
+      "file": "01-rex-colors/rex-square-08-graphite-silver-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "297969deebff3a6b268b335652eefaf3243529ef71c365eb924ec1efb26cac13",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-20-new-colors/icons/rex-square-09-sapphire.png",
+      "display_name": "宝石蓝",
+      "source_sha256": "9f1b5f9153bfd333b854c489b828cb62ac45375d40f2be31e9766515ed045b7d",
+      "file": "01-rex-colors/rex-square-09-sapphire-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "c654e0854d1d26b0c9ce6f676931a3b79aad6312730e2cc8281226a0533540ef",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-20-new-colors/icons/rex-square-10-midnight.png",
+      "display_name": "午夜蓝",
+      "source_sha256": "209d5ddd7d66b1e991f2da48969f43f2fea873a00662bb7fca609df5aa933550",
+      "file": "01-rex-colors/rex-square-10-midnight-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "92df29e10c9a2e37080e61bfb119526da15d9f7b3259f6473d088c4a975552e6",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-20-new-colors/icons/rex-square-11-glacier.png",
+      "display_name": "冰川蓝",
+      "source_sha256": "4acb58b1475556b020b34da56df8ac8d56e3989b954b4df322c282f6dc68e5a8",
+      "file": "01-rex-colors/rex-square-11-glacier-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "faf14fa4f7151f728fbba7c3cb5abc4cae5a7d1de4f8b00d334faf483f96a260",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-20-new-colors/icons/rex-square-12-peacock.png",
+      "display_name": "孔雀青",
+      "source_sha256": "f94e80ba8321b5c85d21a5443c5552aad3fbefdbd61621ee2f919934a15e6733",
+      "file": "01-rex-colors/rex-square-12-peacock-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "81a9f801e1edeaecb62a6174377f6b33c04a7bcb916ad850398304351fb2e160",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-20-new-colors/icons/rex-square-13-pine.png",
+      "display_name": "松柏绿",
+      "source_sha256": "a1d8a2fa1f273677a259ab6088d261aa8aaf66de9d2f54c0074927aaec006ee4",
+      "file": "01-rex-colors/rex-square-13-pine-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "fdde16862c553677cd54432a57165694c9fef8934cdfd150722e37e29259e8d4",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-20-new-colors/icons/rex-square-14-sage.png",
+      "display_name": "鼠尾草",
+      "source_sha256": "bef1dc6c9bd2bdd036e388264bfedf2dacf0722653d29ca106823171dfd1d501",
+      "file": "01-rex-colors/rex-square-14-sage-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "f303784f84afe692c52c99431ca3517f4de21d0c5fb50212f8a93bf9ff2f8f04",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-20-new-colors/icons/rex-square-15-matcha.png",
+      "display_name": "抹茶绿",
+      "source_sha256": "41d3ce3e2c6519b7cfb5c7e9a0c1a3384935868c8fe52dfdce4ed24827e1837c",
+      "file": "01-rex-colors/rex-square-15-matcha-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "976c7b84a27a1c35cff8d8a1e22d87fca5fda343a4a39a36794e5b553e75aa98",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-20-new-colors/icons/rex-square-16-olive-gold.png",
+      "display_name": "橄榄金",
+      "source_sha256": "580ad4fa34e5e4be028e4f7f0fe6735896ec9b60e4d12e71295e4b6df2e274c5",
+      "file": "01-rex-colors/rex-square-16-olive-gold-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "8ccc98e26a1eb6d7f5621ce6e0def79a8a6eaa70926c174b703cd36bec73759e",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-20-new-colors/icons/rex-square-17-honey.png",
+      "display_name": "蜜糖橙",
+      "source_sha256": "b18dd2f8cf20d96183c6975ccecd4ea4c7a8a285c0b3d9b922b52bd80fd3acc3",
+      "file": "01-rex-colors/rex-square-17-honey-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "53dfc8a029498f9e87e877e0bb196a3cbe0c14afbbf20daf0aa01c89c0dbb299",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-20-new-colors/icons/rex-square-18-terracotta.png",
+      "display_name": "陶土橘",
+      "source_sha256": "a72aa2ea7408df4695446803f4c4080b5a032479e7c6652ec6ec788d6aec14e5",
+      "file": "01-rex-colors/rex-square-18-terracotta-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "a4c15cf9621228f8de1c4bfdc36b5dce20dafc8ee1228bbff3e75fe19d10b09b",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-20-new-colors/icons/rex-square-19-burgundy.png",
+      "display_name": "勃艮第",
+      "source_sha256": "5d422e3d4ab6c080927ed6bf92bf00aa12b41cbd9a8089053100866f2bc8f5e4",
+      "file": "01-rex-colors/rex-square-19-burgundy-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "c3fe71d28137a940716d9a6f12ba987216363ca046afc771e9b0b76b35d7b0c0",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-20-new-colors/icons/rex-square-20-raspberry.png",
+      "display_name": "覆盆莓",
+      "source_sha256": "cc3d95b93d35d219892fe8ea01bee754d8b348c477f75b15548075d9da23bf2e",
+      "file": "01-rex-colors/rex-square-20-raspberry-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "b895b3a5500f667b31937ed8acadd292f13c756a4e4f56ba2c02414e3cf707d2",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-20-new-colors/icons/rex-square-21-dusty-rose.png",
+      "display_name": "烟玫瑰",
+      "source_sha256": "08a9922c1c638bf6da577d8bd2e5137fda7e7465785db91cf5bc692232bb6973",
+      "file": "01-rex-colors/rex-square-21-dusty-rose-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "d8debf7c41f8ab883957a16e16d4b07d3c663982e493740c6126d81f10fa4cc1",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-20-new-colors/icons/rex-square-22-grape.png",
+      "display_name": "葡萄紫",
+      "source_sha256": "e1791ca1bfe2e14ba90d5fa1de5be2a5a8d8a8914ffe62bbefadec88d9840306",
+      "file": "01-rex-colors/rex-square-22-grape-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "507e879e1f1497b477a880311c9dc51ecc88cc654dacbddb19948152d8b023f7",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-20-new-colors/icons/rex-square-23-iris.png",
+      "display_name": "鸢尾紫",
+      "source_sha256": "60b1141be1766e157af72486e41b86fd191bc358bd8bf5cc8b34e7aa0e2c6c3c",
+      "file": "01-rex-colors/rex-square-23-iris-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "884b7721b1265dc28e72aa4aa94ad5800d27834cde28fa36522cdbfc0d8c5154",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-20-new-colors/icons/rex-square-24-lavender.png",
+      "display_name": "薰衣草",
+      "source_sha256": "13af1888011820fdab0aee3d693ab93f8483dbe7fc32062828c9aa9573f33a45",
+      "file": "01-rex-colors/rex-square-24-lavender-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "6bd5a6c980ecf7294deaf7a1b25708fa75d42908c6bd7d26e49c3391b2c3e141",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-20-new-colors/icons/rex-square-25-steel-blue.png",
+      "display_name": "雾霭蓝",
+      "source_sha256": "f1cb56e2383a48aaffc4af64c7fbdc17df5b468c9a30a4998c6582975ce30820",
+      "file": "01-rex-colors/rex-square-25-steel-blue-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "87f3fc6ad174f59e1facc988c6a0b154ccd06b9346dbe4bf2aa3d06774d2119d",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-20-new-colors/icons/rex-square-26-mocha.png",
+      "display_name": "摩卡棕",
+      "source_sha256": "9f01fca89517fec06513a1385aac696c8a4bde9c0f70c9291878aa9609510404",
+      "file": "01-rex-colors/rex-square-26-mocha-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "dd3894d45ad70b186c105a9278fefcb85106d4939a8b92336fe9cd5996da3fcf",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-20-new-colors/icons/rex-square-27-champagne.png",
+      "display_name": "香槟金",
+      "source_sha256": "5c9ec56900853ee4a568470cf251209b2b9803a1f36684b7e01e5c64834efac8",
+      "file": "01-rex-colors/rex-square-27-champagne-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "e6e73d3bdfb5d1ad64be52e37afcdc8bf621857d80195931391849d6c97afd5a",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-20-new-colors/icons/rex-square-28-obsidian.png",
+      "display_name": "曜石黑",
+      "source_sha256": "abdb9aa7740d965192f5d18488044ba4eed815610e92db4e85743a4e4602f52f",
+      "file": "01-rex-colors/rex-square-28-obsidian-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "96045e51662c54b1142f961ca7fe0fbf7ccbc6fd0085054fd1400437d9548f5a",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-10-more-colors/icons/rex-square-29-electric-cyan.png",
+      "display_name": "电光青",
+      "source_sha256": "d1d7922ed8baaeb89de6cfe29476f86869cc772527b3ce7f3a52094fdf6c30db",
+      "file": "01-rex-colors/rex-square-29-electric-cyan-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "9723b7b557777c620cfb688d272acc9f90ff56acf6076a6f16b2a4429164b2e6",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-10-more-colors/icons/rex-square-30-deep-turquoise.png",
+      "display_name": "深海碧",
+      "source_sha256": "bb3854e70a981d15bf65ef6418d3df5f4c58f800cf4f7af87f86a080a3523e70",
+      "file": "01-rex-colors/rex-square-30-deep-turquoise-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "d7f82eb2b88cbcfbbdd817b87cb3076fa9739686f95263b9f4a756ddc7cc77de",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-10-more-colors/icons/rex-square-31-eucalyptus.png",
+      "display_name": "桉叶绿",
+      "source_sha256": "7a643e8fb2d0ee9a36cf753bfa0f70c9623994caf484f5318488af799952cc2e",
+      "file": "01-rex-colors/rex-square-31-eucalyptus-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "0cc32634f6a15c6067d504aa47dabda8291fc507c4ff43d17943104ef19d0639",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-10-more-colors/icons/rex-square-32-lime-sherbet.png",
+      "display_name": "青柠雪酪",
+      "source_sha256": "4e18a9357fbf6db353bf75962a939e023cbd1b084e34b5ab659b70391b59171f",
+      "file": "01-rex-colors/rex-square-32-lime-sherbet-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "91ec41936aa3d046e9e6890f4074d306b43657a9e64f63daec51beb84ec5cacd",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-10-more-colors/icons/rex-square-33-burnt-orange.png",
+      "display_name": "焦糖橙",
+      "source_sha256": "c92b8e6c851b1aff60838e88ef9f89f50b0edee65653fb48857fc4797965d773",
+      "file": "01-rex-colors/rex-square-33-burnt-orange-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "544012a10b24e5b8f0a94f84a82df7d89eefccd4fb4aa34f4c8d8ef90ad68bd9",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-10-more-colors/icons/rex-square-34-copper-red.png",
+      "display_name": "赤铜红",
+      "source_sha256": "3e8a3733e409aed9173fd8c939a4fd96e56d07432848f076720214cae85a92d0",
+      "file": "01-rex-colors/rex-square-34-copper-red-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "7d69ba49ec12e9e5614d2b126243bdd3d58ad5b744cafcd7542aebf7ee128d13",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-10-more-colors/icons/rex-square-35-mulberry.png",
+      "display_name": "桑葚紫",
+      "source_sha256": "24f82e301426a862c5a48d06732262b9ea48a377b3b05b684cf29a2e930527d3",
+      "file": "01-rex-colors/rex-square-35-mulberry-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "33856713e4ed8f1392e5aac9e233a53605f382ef17b021416bfaa5da9a9f9151",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-10-more-colors/icons/rex-square-36-magenta-violet.png",
+      "display_name": "绛紫红",
+      "source_sha256": "c6e4ac66952cdb6e6f87b60779a9560a6bc6ea466533f7018f8bff106e6fbdd8",
+      "file": "01-rex-colors/rex-square-36-magenta-violet-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "1ac8418e414aa933bedeb8fa86c6fbe1190a16d6e73d3c44c692b5821916d75a",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-10-more-colors/icons/rex-square-37-periwinkle.png",
+      "display_name": "长春花蓝",
+      "source_sha256": "7be71ed06596773add8ba542e15ba8781586dcef2e888ced0b94ba27d8194119",
+      "file": "01-rex-colors/rex-square-37-periwinkle-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "87a7db6759c5bda0c7b90192e6c650977ba6b44b1ea84110a41e1e8d9f548be7",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-10-more-colors/icons/rex-square-38-warm-graphite.png",
+      "display_name": "暖石墨",
+      "source_sha256": "dc49d18270e3de8a4aaa21a6e43878a29132df01556a015b74639614a49cc0a2",
+      "file": "01-rex-colors/rex-square-38-warm-graphite-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "9865fc0826c1b5ef9a6c8d81e6d3357c1369fb2381ad245d097846e449f60c52",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-yellow-6-colors/icons/rex-square-39-pure-yellow.png",
+      "display_name": "正黄色",
+      "source_sha256": "347b77a938827bf64af8b72eeddd3f37eb53c394702816c937930524ccd8d8df",
+      "file": "01-rex-colors/rex-square-39-pure-yellow-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "f09e8d8c0c55f7e7f2dbb36db354b4749b19ab5a04d26d2d9bd62f031d8296ac",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-yellow-6-colors/icons/rex-square-40-lemon-yellow.png",
+      "display_name": "柠檬黄",
+      "source_sha256": "494f87bffe08daefbb94a2aeba1796330c50fb1e2355f0f3935639ae98851499",
+      "file": "01-rex-colors/rex-square-40-lemon-yellow-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "9699d31ac79665aba484c7168687cae7c6b64549a424507afb97c0929f42b400",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-yellow-6-colors/icons/rex-square-41-sunflower-yellow.png",
+      "display_name": "向日葵黄",
+      "source_sha256": "bbd6322cda9550467b741fc0721c1e8f114dd61b54b42fdb873bcf06546817d7",
+      "file": "01-rex-colors/rex-square-41-sunflower-yellow-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "14ff7a677a3435a0b21f6b91e45fb7f4ddf6244cbc9dc7bc8d2452cc48044345",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-yellow-6-colors/icons/rex-square-42-amber-yellow.png",
+      "display_name": "琥珀黄",
+      "source_sha256": "0585096d67a3cdadafbac5721fc0c08912faf70ba65187fa0f6d7633ae354c62",
+      "file": "01-rex-colors/rex-square-42-amber-yellow-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "9e90227d674bc2607354022a526dc5f9e3a132e3dad498402ee967728b00531f",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-yellow-6-colors/icons/rex-square-43-champagne-yellow.png",
+      "display_name": "香槟黄",
+      "source_sha256": "9e51a5c874cfa87be48b48a3601b5b63b90998ed0a068464f9e5fffc601c692e",
+      "file": "01-rex-colors/rex-square-43-champagne-yellow-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "9ac878f20edcc6ab693ba38c609e04c6bfaddff4c5aafbd19a582be517db4b24",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-yellow-6-colors/icons/rex-square-44-mustard-yellow.png",
+      "display_name": "芥末黄",
+      "source_sha256": "1d6e4c12f4b400079a658128161f45e84e033a65047057b1cad347ded891d90f",
+      "file": "01-rex-colors/rex-square-44-mustard-yellow-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "7bb75fd2ca41a53b5d714e04b91919f14c57e2f6fcb7a18ea36de47a0bbf021b",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "02-rex-pearl",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-transparent-v2/01-square-pearl-8/rex-square-pearl-01-ocean-blue.png",
+      "display_name": "rex-square-pearl-01-ocean-blue",
+      "source_sha256": "5a61cce9756d1dcf37ec06535dacd6fdcef7419e51c6e2a24f3be88f1f92181a",
+      "file": "02-rex-pearl/rex-square-pearl-01-ocean-blue-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "9b95e5ef7c210b8c03c2ccc3786cba022b0138e92ac84acb039588ac80bbf0ea",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "02-rex-pearl",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-transparent-v2/01-square-pearl-8/rex-square-pearl-02-lagoon-teal.png",
+      "display_name": "rex-square-pearl-02-lagoon-teal",
+      "source_sha256": "3b2152821186b31f15cdcc90604d92478d87f5d3d66aab941e929492c713f79d",
+      "file": "02-rex-pearl/rex-square-pearl-02-lagoon-teal-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "d6ad0ddae21ea4daaa3e056c3cc4b68ea0de8c53c33b320fb1319763c01e158d",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "02-rex-pearl",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-transparent-v2/01-square-pearl-8/rex-square-pearl-03-jade-green.png",
+      "display_name": "rex-square-pearl-03-jade-green",
+      "source_sha256": "1e79c7e29ee262409ecab284c2b979acdadc2acd5cf5bf1ac7b79c0516e582c8",
+      "file": "02-rex-pearl/rex-square-pearl-03-jade-green-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "be58989d18797d78395cb47aa3f7705f15d2b56e6e3a3467b1d1cfbd8bc79645",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "02-rex-pearl",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-transparent-v2/01-square-pearl-8/rex-square-pearl-04-amber-gold.png",
+      "display_name": "rex-square-pearl-04-amber-gold",
+      "source_sha256": "c7052eb577f6942746a78a26fa33f3d3bc69610c732b7c0d5f81973a30fb47a2",
+      "file": "02-rex-pearl/rex-square-pearl-04-amber-gold-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "ad433bea3620347f27249e983a7c40bf5b63384aee776f65cf640006bf83fc80",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "02-rex-pearl",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-transparent-v2/01-square-pearl-8/rex-square-pearl-05-coral-peach.png",
+      "display_name": "rex-square-pearl-05-coral-peach",
+      "source_sha256": "85f2ea0093ec5a3f961b68e146246a5884bd901a0fb3ac96d0e54206c310a10f",
+      "file": "02-rex-pearl/rex-square-pearl-05-coral-peach-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "045e5120ad78ad94805d0f3f9a95f8c1e20b2a3c74a1b494669ea053c30152e5",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "02-rex-pearl",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-transparent-v2/01-square-pearl-8/rex-square-pearl-06-rose-pink.png",
+      "display_name": "rex-square-pearl-06-rose-pink",
+      "source_sha256": "aa6c5ad292ff1a1598b10c5f80a14a9e27fe3fec69233d197f6fbc0e7e04ccdb",
+      "file": "02-rex-pearl/rex-square-pearl-06-rose-pink-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "48463ac2fa17b0fa2ffcdce3f4a3017ee19580592a35c196a9d7deed9813cd6b",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "02-rex-pearl",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-transparent-v2/01-square-pearl-8/rex-square-pearl-07-cherry-red.png",
+      "display_name": "rex-square-pearl-07-cherry-red",
+      "source_sha256": "12a92ccd8059e696d784b3e3c9918f11ff4576236ff672a42ba959869e6c4ef6",
+      "file": "02-rex-pearl/rex-square-pearl-07-cherry-red-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "9845c6cf3906319d22c6c6fc270f66b1f0803876fb89d7b846d3ba626f404005",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "02-rex-pearl",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-transparent-v2/01-square-pearl-8/rex-square-pearl-08-graphite-silver.png",
+      "display_name": "rex-square-pearl-08-graphite-silver",
+      "source_sha256": "8b782e6b0a37f6fc6f357044c3089ff7520df64a58e4da36e3612df97d220ddb",
+      "file": "02-rex-pearl/rex-square-pearl-08-graphite-silver-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "0951dc44c690fdeef37ab8a1cf4b750a8925e60e372df8841f04fd0bdb98827b",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "03-bilibili",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/bilibili-douyin-pearl-icons/bilibili/B01-bilibili-classic-pink.png",
+      "display_name": "B 站 · 经典粉",
+      "source_sha256": "668f214098605b398d3a4f3a60b392ecbc4992883b80659768a6146221fd55cb",
+      "file": "03-bilibili/B01-bilibili-classic-pink-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "93511b2472118eaa39e89bd5f5928f3d1fa9efbe1e2b31a8930d3857ef47b577",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "03-bilibili",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/bilibili-douyin-pearl-icons/bilibili/B02-bilibili-sky-blue.png",
+      "display_name": "B 站 · 晴空蓝",
+      "source_sha256": "0c9ec956cf608b0a963f1cb293dfd0e07a3b22a67af50db91313a5059d0f0a38",
+      "file": "03-bilibili/B02-bilibili-sky-blue-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "7a21211684d07ab441e836c6577f331c8ec5c720582a0880916a33d541836565",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "03-bilibili",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/bilibili-douyin-pearl-icons/bilibili/B03-bilibili-iris-violet.png",
+      "display_name": "B 站 · 鸢尾紫",
+      "source_sha256": "77a3400ff515b7e86d3c43d14ce61c7531680138b1971ef43d7a203dd4d2f0bb",
+      "file": "03-bilibili/B03-bilibili-iris-violet-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "7a40390646ec45267a149b6c6cb96bcd92cacd3c25a6e9c88fe6303e47fd0b88",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "04-douyin",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/bilibili-douyin-pearl-icons/douyin/D01-douyin-classic.png",
+      "display_name": "抖音 · 经典黑红青",
+      "source_sha256": "e8a14405f5b0d776113e67193c3e3398104caecfa2f054438cba2f5153da810a",
+      "file": "04-douyin/D01-douyin-classic-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "cf0784fe52f7dda08a31052bc47727d303f0c9ebc6595bbca252001736c45712",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "04-douyin",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/bilibili-douyin-pearl-icons/douyin/D02-douyin-glacier.png",
+      "display_name": "抖音 · 冰青",
+      "source_sha256": "dc4a68a7f0c8571cba0418c8fedba42789de80e1fab85141e922569aacfc1b8a",
+      "file": "04-douyin/D02-douyin-glacier-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "6cb14e504ec3a89b026e72a015354d1d865c9ffb918cf8e104aafd5f3a729fb5",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "04-douyin",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/bilibili-douyin-pearl-icons/douyin/D03-douyin-rose.png",
+      "display_name": "抖音 · 玫红",
+      "source_sha256": "e6ad4a4169ca45516393d35b51f9b1009cfd0fcd56f3dcc6a0012ba449e65342",
+      "file": "04-douyin/D03-douyin-rose-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "d45039955b2f0fa8e1d87e0584dca1c3ee534fdf6a4acb0bd0280fb322d60604",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "05-hongguo",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/entertainment-4-brands-12-pearl-icons-v2/hongguo/HG01-hongguo-pearl.png",
+      "display_name": "红果短剧 · 经典橙",
+      "source_sha256": "55f6f3bd1e0f86c58c9bf8d065e08996ecea1c5cdc83be768c2308b22b572f2d",
+      "file": "05-hongguo/HG01-hongguo-pearl-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "a6dc3176138313fdcaa1f9274fc9201d8f680f0260108eaab20f279a84557c0e",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "05-hongguo",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/entertainment-4-brands-12-pearl-icons-v2/hongguo/HG02-hongguo-pearl.png",
+      "display_name": "红果短剧 · 桃花粉",
+      "source_sha256": "565200cfb4f9a24597b9cd79d06d63b45b5902d7190f022b297e1939e5854724",
+      "file": "05-hongguo/HG02-hongguo-pearl-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "c968d4bcdae70fec02c8aa69d2061244c335d9902af06e90c6ba6dfdbf4d45eb",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "05-hongguo",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/entertainment-4-brands-12-pearl-icons-v2/hongguo/HG03-hongguo-pearl.png",
+      "display_name": "红果短剧 · 翡翠青",
+      "source_sha256": "96cb7ee3c387fc90b3e80b6f8e7560f6013d36e302d1ba5319284df51596cda2",
+      "file": "05-hongguo/HG03-hongguo-pearl-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "44be9eb210e21538a26d19e407a0c27cce328fc21d03c7058f891841be84c6b2",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "06-netease",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/entertainment-4-brands-12-pearl-icons-v2/netease/NE01-netease-pearl.png",
+      "display_name": "网易云 · 经典红",
+      "source_sha256": "b51a2c59e8299ccbd3cb06de748975509b0dba63287b23eb84a40205adee4f6f",
+      "file": "06-netease/NE01-netease-pearl-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "a9316ce3e24f0c685c9734764ec600c7127fecfb94af124a50d05e433b021433",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "06-netease",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/entertainment-4-brands-12-pearl-icons-v2/netease/NE02-netease-pearl.png",
+      "display_name": "网易云 · 鸢尾紫",
+      "source_sha256": "09988a61d7c3e21c1a3c9db594cd6eafbd71f1a6b3115b2305b6b748b0e12433",
+      "file": "06-netease/NE02-netease-pearl-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "3a22eb29c0700bcab37316704969f8d30492fdf940dad040682288d9e855b9ba",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "06-netease",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/entertainment-4-brands-12-pearl-icons-v2/netease/NE03-netease-pearl.png",
+      "display_name": "网易云 · 勃艮第",
+      "source_sha256": "2929b7f485f2694317c34b6217d33df20a24cb2c09a12c2064235f276b3b2625",
+      "file": "06-netease/NE03-netease-pearl-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "e3f370fa6787f9748fe48f25de0db034a64f3adabbe284f97406fc3c8e9826fc",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "07-qqmusic",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/entertainment-4-brands-12-pearl-icons-v2/qqmusic/QM01-qqmusic-pearl.png",
+      "display_name": "QQ 音乐 · 经典黄绿",
+      "source_sha256": "3031cd7055170c602e52b29dae638885e1092055b58bf6ef11f70ae098c95d1e",
+      "file": "07-qqmusic/QM01-qqmusic-pearl-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "c20c2f758f6959ed520015e4ce7b5346c6e0b8b59b81dc0616da42ebe20fb8c5",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "07-qqmusic",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/entertainment-4-brands-12-pearl-icons-v2/qqmusic/QM02-qqmusic-pearl.png",
+      "display_name": "QQ 音乐 · 冰湖蓝",
+      "source_sha256": "28a636a97bde311480bff3abf5f682a7162873f8958736aff77a92aafe6919c0",
+      "file": "07-qqmusic/QM02-qqmusic-pearl-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "17bd5ab57260dc6d3440e44b2174fc130af6fe006d798ff28b9b4589fca578ea",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "07-qqmusic",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/entertainment-4-brands-12-pearl-icons-v2/qqmusic/QM03-qqmusic-pearl.png",
+      "display_name": "QQ 音乐 · 香芋紫",
+      "source_sha256": "612b8c24d56e28a9ba37f91413ea405a040c53fd3117f0df3dc63dffb646e7c1",
+      "file": "07-qqmusic/QM03-qqmusic-pearl-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "bbff3a5030149a7cd9edbbd64d4a2e43e5405ee1f0d40bd4fbbfb045cbdb85a7",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "08-huya",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/entertainment-4-brands-12-pearl-icons-v2/huya/HY01-huya-pearl.png",
+      "display_name": "虎牙直播 · 经典金",
+      "source_sha256": "5d173e63261ac752f8616d0c55d227dc9352a06a0f1b19e908a7cef6fe2c9a9f",
+      "file": "08-huya/HY01-huya-pearl-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "36c61578d18cfe809003d97026b197307bcb1f0d6bc0c8621505618cd433c8fb",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "08-huya",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/entertainment-4-brands-12-pearl-icons-v2/huya/HY02-huya-pearl.png",
+      "display_name": "虎牙直播 · 砂糖橘",
+      "source_sha256": "d8422845a41037d98df6627ad8ff6742433c8d0e0b4b44a5b9696508da9252c4",
+      "file": "08-huya/HY02-huya-pearl-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "6739e7878b98a3c0980f8090520509a2cfe337623720b99602e45f8f2298bf09",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "08-huya",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/entertainment-4-brands-12-pearl-icons-v2/huya/HY03-huya-pearl.png",
+      "display_name": "虎牙直播 · 极光青",
+      "source_sha256": "3878870f29af54e0147eaeac9929785e2d42cfc848c1be56eedd90224e77b2c0",
+      "file": "08-huya/HY03-huya-pearl-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "9bb349485cc43365e96c5e11a8d278eafbccdb235789cfcfc7fcd27846b81c86",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "09-children",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/children-6-pearl-icons-v2/icons/K01-honey-bear.png",
+      "display_name": "蜜糖小熊",
+      "source_sha256": "0611e19b317b2950193cf87d0798913398c24eb315f99be33ac3f3f6b72fa769",
+      "file": "09-children/K01-honey-bear-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "d71a1cbbf07c0750624236c0f50c6a8d2e1343be9a9e60f5f3f6924234cf8ade",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "09-children",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/children-6-pearl-icons-v2/icons/K02-lilac-bunny.png",
+      "display_name": "软糖兔兔",
+      "source_sha256": "92bc9da351d15c4396a2c955fc127c152c6b0e25c9a6b10fa377db077f286b47",
+      "file": "09-children/K02-lilac-bunny-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "e5c4b8b8f68199d0989e3dacb1db9df8c2f75c944b7dbf2629f893b1201f7094",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "09-children",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/children-6-pearl-icons-v2/icons/K03-play-blocks.png",
+      "display_name": "缤纷积木",
+      "source_sha256": "3cc583f597448e6da12d8d4f99b86bdefcdcda070c6bc9aea5b4da25ff50030f",
+      "file": "09-children/K03-play-blocks-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "a2c21f0d9517b778703f9e141ec4ab7e15d3ded5c25743a05b848f78a5c5d407",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "09-children",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/children-6-pearl-icons-v2/icons/K04-happy-balloons.png",
+      "display_name": "快乐气球",
+      "source_sha256": "290cd3917d1f5dc82fef3bbccb33b48e74d2f3471289c7e1684fdc2ece7486f2",
+      "file": "09-children/K04-happy-balloons-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "b5c52285d33d74176a04ecbc703293f90f9250758ae349a1689f4088e6292d4d",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "09-children",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/children-6-pearl-icons-v2/icons/K05-candy-rainbow.png",
+      "display_name": "糖果彩虹",
+      "source_sha256": "2384909eb1aa72f6bb41c53b789d80239d414ebebb8f7b7e1984b28079d61707",
+      "file": "09-children/K05-candy-rainbow-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "137cdca4131c544797d0a6797dca44ace414caf6ea3d25266007c17a5f221136",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "09-children",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/children-6-pearl-icons-v2/icons/K06-smiling-sun.png",
+      "display_name": "笑脸太阳",
+      "source_sha256": "4fe4a00e9da4936fe345250ef86cd2015e2377a5b3dbe612c03b37b9e2979189",
+      "file": "09-children/K06-smiling-sun-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "c05a0c95503dcd2b8474fb4fa7984b3dc97ef86be3026fc928ec0de3cc62d826",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "10-character-head",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/stacked-character-6-pearl-icons/icons/C01-cream-beige.png",
+      "display_name": "奶油原色",
+      "source_sha256": "453cac1e5dc78a4e3933cd37e59d37e617ede4bb9339bedacac6eb1811690fa9",
+      "file": "10-character-head/C01-cream-beige-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "18c8071d0e588c495ce7876467f9324e5604c41d91bb84e1c9dc512726ae1e18",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "10-character-head",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/stacked-character-6-pearl-icons/icons/C02-peach-pink.png",
+      "display_name": "蜜桃粉",
+      "source_sha256": "98f085f7bfd44cbaa6065f9475d95a01fb13a0e794f194638a75e8a2d66a66ba",
+      "file": "10-character-head/C02-peach-pink-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "048ab0b8ec18fe129c3016e0462563cfaca796da210fedc7949c77ea1786dcf7",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "10-character-head",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/stacked-character-6-pearl-icons/icons/C03-lilac-purple.png",
+      "display_name": "香芋紫",
+      "source_sha256": "f8d87f653cc3e913689b210d75e1ab0a38d354521b7c8d58e7c14b420fbfe49c",
+      "file": "10-character-head/C03-lilac-purple-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "61dfd8dce5e5f24a34c9ace0bc3e06597eb36780dc9dfa2021f4d100572eea01",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "10-character-head",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/stacked-character-6-pearl-icons/icons/C04-mint-teal.png",
+      "display_name": "薄荷青",
+      "source_sha256": "86ec2433101ac7d67abb1c891ab9b7a4ce50aa89febb302a0e5c593ad719eecd",
+      "file": "10-character-head/C04-mint-teal-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "71bbe388a26701715ec1698b2fa21783f70b929a9e60f2cff13755f847ee463c",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "10-character-head",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/stacked-character-6-pearl-icons/icons/C05-custard-yellow.png",
+      "display_name": "奶酪黄",
+      "source_sha256": "94d97a14ba5f15b885813529b087d45b42702fa2f5e911bcb52de66b92f16c43",
+      "file": "10-character-head/C05-custard-yellow-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "d292bf2b1001ee0401b9563911a26ea8511079ea774fecc27c84bc897ddc5dff",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "10-character-head",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/stacked-character-6-pearl-icons/icons/C06-mist-blue.png",
+      "display_name": "雾海蓝",
+      "source_sha256": "3d746ef9027d96c444a62ffbda70575c4bd57e5ac503306fbe74b288a6078b73",
+      "file": "10-character-head/C06-mist-blue-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "63c7a5fd9dc426973d077f2ab90ceedd93d725326adb15d569dc55ae66c7019e",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "11-character-fullbody",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/stacked-character-6-fullbody-pearl-icons-v2/icons/C01-cream-beige.png",
+      "display_name": "奶油原色",
+      "source_sha256": "a11f6cc2299e00c9b39ae2a5c63c1a4f306ce4d3bd179e3ec56a5f7fd6ed1802",
+      "file": "11-character-fullbody/C01-cream-beige-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "e4cba1820e69ae83065d480e5ef2d3462eff81ffd3d56c531cf092c0dc453226",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "11-character-fullbody",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/stacked-character-6-fullbody-pearl-icons-v2/icons/C02-peach-pink.png",
+      "display_name": "蜜桃粉",
+      "source_sha256": "13635e25a83e13f1ff7bbc15f71673fe3882ca8d56ed46f1bddce28614482dec",
+      "file": "11-character-fullbody/C02-peach-pink-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "b020d39ee9e0777aa34fed683895129e13991e0ca80f241a21fb2a0e2d2130eb",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "11-character-fullbody",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/stacked-character-6-fullbody-pearl-icons-v2/icons/C03-lilac-purple.png",
+      "display_name": "香芋紫",
+      "source_sha256": "2f423849b31bea05dbd0fe1e3168dd0ac8206351d346b11a0c9d245604774466",
+      "file": "11-character-fullbody/C03-lilac-purple-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "832a3e1b911a4a0f1dc7a352370bd81de6f954012f8e4a5b45e791cf48d022bb",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "11-character-fullbody",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/stacked-character-6-fullbody-pearl-icons-v2/icons/C04-mint-teal.png",
+      "display_name": "薄荷青",
+      "source_sha256": "e00b9f69f1a850314a9c3aff1f5e39001880d9139020f8e7c531339623ad7226",
+      "file": "11-character-fullbody/C04-mint-teal-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "cef74ae4cfc1fc6d77bd5d0ccfa674354fa0f4bbca4e364709aaac31e073627f",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "11-character-fullbody",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/stacked-character-6-fullbody-pearl-icons-v2/icons/C05-custard-yellow.png",
+      "display_name": "奶酪黄",
+      "source_sha256": "36788f0ef5e449494779fd3c82dc5a68f6eb40f0e130ca5fc3ab9c2db065809d",
+      "file": "11-character-fullbody/C05-custard-yellow-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "933ebb6ae9f405503d56c7c3439b9236cf4edaa1f78d98dcc8a03140d7a977a3",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "11-character-fullbody",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/stacked-character-6-fullbody-pearl-icons-v2/icons/C06-mist-blue.png",
+      "display_name": "雾海蓝",
+      "source_sha256": "bb5a6efb42c120b25cbcabb03fe6ffb7180cc5ad6760f9b6ac2354b959a0d677",
+      "file": "11-character-fullbody/C06-mist-blue-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "02d5726bce7c29042d18d59e14bf373128af71eeafc6eb05a74f3adf01bad1cc",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "12-tangxin",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/tangxin-vlog-3-pearl-icons-v2/icons/TX01-orange-pink.png",
+      "display_name": "TX01-orange-pink",
+      "source_sha256": "3c164b7126c50661bc4919a432f2558d4f2d199504d48e5e36867545c80e8f9c",
+      "file": "12-tangxin/TX01-orange-pink-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "b41dc8ea9bdc663a3c812fbd3d579571f60b85e1b358a459789ec54a40ba6b98",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "12-tangxin",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/tangxin-vlog-3-pearl-icons-v2/icons/TX02-rose-pink.png",
+      "display_name": "TX02-rose-pink",
+      "source_sha256": "96fcdd757931f9a0e0631ef35cc9bba1865fc964eda8405324964663cb9ad14c",
+      "file": "12-tangxin/TX02-rose-pink-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "b3775485243ebe6eabae63eb05f6e60b3860135df0c8629581b3f6ddd767a4bd",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "12-tangxin",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/tangxin-vlog-3-pearl-icons-v2/icons/TX03-iris-violet.png",
+      "display_name": "TX03-iris-violet",
+      "source_sha256": "626f91b7a633009510d1f6adbffdf78c1daef8a412a1bc4367235f52946ebd93",
+      "file": "12-tangxin/TX03-iris-violet-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "4be049ce811bcd8b6b2eadb16266dc086327038400d19a8ac30bef3a062a177e",
+      "opaque_fraction": 0.923408203125
+    },
+    {
+      "group": "13-avdb-concepts",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/avdb-icon-concepts/png/avdb-a-play-blue-1024.png",
+      "display_name": "avdb-a-play-blue-1024",
+      "source_sha256": "22f164ca497b156b6c2e1608274b9cf81f46b9f55b642423f417fec2bc433da5",
+      "file": "13-avdb-concepts/avdb-a-play-blue-1024-rounded.png",
+      "method": "native SVG; opaque outer canvas removed; pearl tile untouched",
+      "size": [
+        1024,
+        1024
+      ],
+      "sha256": "f3d271cc3a012eedfa159414ed40e9a0077b2d3a0b1c0c77f2917d82a252d6c5",
+      "opaque_fraction": 0.8655920028686523
+    },
+    {
+      "group": "13-avdb-concepts",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/avdb-icon-concepts/png/avdb-a-play-graphite-1024.png",
+      "display_name": "avdb-a-play-graphite-1024",
+      "source_sha256": "2a1b69cc75b39c179ce07de5925a64bb3639b3a7303dd80053b85a5ff16394e5",
+      "file": "13-avdb-concepts/avdb-a-play-graphite-1024-rounded.png",
+      "method": "native SVG; opaque outer canvas removed; pearl tile untouched",
+      "size": [
+        1024,
+        1024
+      ],
+      "sha256": "406e1341ff0fc45471afe67b0f2f792fa2f3f29bd48bad8d024656a76494bc25",
+      "opaque_fraction": 0.8655920028686523
+    },
+    {
+      "group": "13-avdb-concepts",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/avdb-icon-concepts/png/avdb-a-play-violet-1024.png",
+      "display_name": "avdb-a-play-violet-1024",
+      "source_sha256": "6e8d35530b798b6cd9d472e439334e863e60daabe221671699e03cc2679a3a3c",
+      "file": "13-avdb-concepts/avdb-a-play-violet-1024-rounded.png",
+      "method": "native SVG; opaque outer canvas removed; pearl tile untouched",
+      "size": [
+        1024,
+        1024
+      ],
+      "sha256": "6595404e5615ddc8416c8b5d3eecfe2a9a0dcff71f9173cad105b3399af0430a",
+      "opaque_fraction": 0.8655920028686523
+    },
+    {
+      "group": "13-avdb-concepts",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/avdb-icon-concepts/png/avdb-av-ribbon-violet-1024.png",
+      "display_name": "avdb-av-ribbon-violet-1024",
+      "source_sha256": "f60f3d611fec6819c1f483edf709f855aa808b10241ae690fbc67c19774c8340",
+      "file": "13-avdb-concepts/avdb-av-ribbon-violet-1024-rounded.png",
+      "method": "native SVG; opaque outer canvas removed; pearl tile untouched",
+      "size": [
+        1024,
+        1024
+      ],
+      "sha256": "c05dd69faccfe55d978a64f8ffc5fea0d64bdaa4837969a5225560cad0c59a6d",
+      "opaque_fraction": 0.8655920028686523
+    },
+    {
+      "group": "13-avdb-concepts",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/avdb-icon-concepts/png/avdb-media-library-violet-1024.png",
+      "display_name": "avdb-media-library-violet-1024",
+      "source_sha256": "33e2ee3e8a8b860c39f3b5f39511691b6d509e2b208ae3500ed6eed61dadd8ca",
+      "file": "13-avdb-concepts/avdb-media-library-violet-1024-rounded.png",
+      "method": "native SVG; opaque outer canvas removed; pearl tile untouched",
+      "size": [
+        1024,
+        1024
+      ],
+      "sha256": "e5efde0e71718194cf0f5689727cdff678c1293c06414eecf78634debf9d372f",
+      "opaque_fraction": 0.8655920028686523
+    },
+    {
+      "group": "14-avdb-premium",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/avdb-premium-v2/png/avdb-premium-graphite-1024.png",
+      "display_name": "avdb-premium-graphite-1024",
+      "source_sha256": "6284255d0eaca36b768b574176f32c9a3692e3b9c23e93b416280bfc7579b304",
+      "file": "14-avdb-premium/avdb-premium-graphite-1024-rounded.png",
+      "method": "native SVG; opaque outer canvas removed; pearl tile untouched",
+      "size": [
+        1024,
+        1024
+      ],
+      "sha256": "2688cd8dc694676d1f0c1fb00ea0f6bb1a0013c211521fb5102e6f4ad3b15ae0",
+      "opaque_fraction": 0.8573751449584961
+    },
+    {
+      "group": "14-avdb-premium",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/avdb-premium-v2/png/avdb-premium-midnight-1024.png",
+      "display_name": "avdb-premium-midnight-1024",
+      "source_sha256": "9dc027dc8d29b6a57a8fb4af7beee552188955b000c530a909f8596eb1170249",
+      "file": "14-avdb-premium/avdb-premium-midnight-1024-rounded.png",
+      "method": "native SVG; opaque outer canvas removed; pearl tile untouched",
+      "size": [
+        1024,
+        1024
+      ],
+      "sha256": "671a0891ebff50a6035f851220e36738af03fb67315c14fd680a69f3bc141a2f",
+      "opaque_fraction": 0.8573751449584961
+    },
+    {
+      "group": "14-avdb-premium",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/avdb-premium-v2/png/avdb-premium-plum-1024.png",
+      "display_name": "avdb-premium-plum-1024",
+      "source_sha256": "0914125c3224a8cd4859524046257fbac3ee266d3adc58110e6b2c3bba3c62b8",
+      "file": "14-avdb-premium/avdb-premium-plum-1024-rounded.png",
+      "method": "native SVG; opaque outer canvas removed; pearl tile untouched",
+      "size": [
+        1024,
+        1024
+      ],
+      "sha256": "be70857b0508ec55b4a47773fc4998e3115a9433d0c6e0904c8932624e9565fc",
+      "opaque_fraction": 0.8573751449584961
+    },
+    {
+      "group": "15-avdb-refined",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/avdb-premium-refined/png/avdb-premium-graphite-1024.png",
+      "display_name": "avdb-premium-graphite-1024",
+      "source_sha256": "65dc9df7fe4eb208408f1ba6235f1532b893aed80a39bd084a4ad75c436f5f88",
+      "file": "15-avdb-refined/avdb-premium-graphite-1024-rounded.png",
+      "method": "native SVG; opaque outer canvas removed; pearl tile untouched",
+      "size": [
+        1024,
+        1024
+      ],
+      "sha256": "f4b02d4b27cfbdb4c393df63dce9550fdfaa3de46c4c8579af5d047ea73d1238",
+      "opaque_fraction": 0.8573751449584961
+    },
+    {
+      "group": "15-avdb-refined",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/avdb-premium-refined/png/avdb-premium-midnight-1024.png",
+      "display_name": "avdb-premium-midnight-1024",
+      "source_sha256": "eb6d4f36588bf42fa3ae6ca7f1004547c3c88f42fc2d736e91e631eb9c070813",
+      "file": "15-avdb-refined/avdb-premium-midnight-1024-rounded.png",
+      "method": "native SVG; opaque outer canvas removed; pearl tile untouched",
+      "size": [
+        1024,
+        1024
+      ],
+      "sha256": "b353c934422026acf636a84d6b9136566562b9a90a403f9732450ecbe73fec87",
+      "opaque_fraction": 0.8573751449584961
+    },
+    {
+      "group": "15-avdb-refined",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/avdb-premium-refined/png/avdb-premium-plum-1024.png",
+      "display_name": "avdb-premium-plum-1024",
+      "source_sha256": "2030da616b5966988a35af6a99c680a3ab5ab0d510925dc549c23876c9b5d6ad",
+      "file": "15-avdb-refined/avdb-premium-plum-1024-rounded.png",
+      "method": "native SVG; opaque outer canvas removed; pearl tile untouched",
+      "size": [
+        1024,
+        1024
+      ],
+      "sha256": "e5f9cf75f9a779d95c58a1150a3afde85088b4b54f74d4869ac3adef617c1830",
+      "opaque_fraction": 0.8573751449584961
+    },
+    {
+      "group": "01-rex-colors",
+      "source": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/rex-square-primary-red-yellow/rex-square-29-pure-red.png",
+      "display_name": "REX · 正红色",
+      "source_sha256": "23edfbe63604a4723e009e499db45f93d40fb26aa5e662bd336cdfdcafb6848f",
+      "file": "01-rex-colors/rex-square-29-pure-red-rounded.png",
+      "method": "shared original pearl-tile contour matte; interior RGB byte-identical",
+      "size": [
+        640,
+        640
+      ],
+      "sha256": "8874238afa0326ea4fd27b8689255e34ce91522f78c6bc3fcae4f20e2718d959",
+      "opaque_fraction": 0.923408203125
+    }
+  ]
+}

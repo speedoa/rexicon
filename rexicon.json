@@ -1,278 +1,418 @@
 {
   "name": "REX ICON图标",
-  "description": "REX ICON 图标库 by:Rex模块分享|SPEEDO",
+  "description": "REX ICON 图标库 · 共103个图标 作者：模块分享频道|SPEEDO",
   "icons": [
     {
-      "name": "Bright Red",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-01-bright-red.png"
+      "name": "海洋蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-01-ocean-blue-rounded.png"
     },
     {
-      "name": "Sapphire",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-09-sapphire.png"
+      "name": "极光青",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-02-lagoon-teal-rounded.png"
     },
     {
-      "name": "Midnight",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-10-midnight.png"
+      "name": "翡翠绿",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-03-jade-green-rounded.png"
     },
     {
-      "name": "Glacier",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-11-glacier.png"
+      "name": "琥珀金",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-04-amber-gold-rounded.png"
     },
     {
-      "name": "Peacock",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-12-peacock.png"
+      "name": "珊瑚橙",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-05-coral-peach-rounded.png"
     },
     {
-      "name": "Pine",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-13-pine.png"
+      "name": "玫瑰粉",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-06-rose-pink-rounded.png"
     },
     {
-      "name": "Sage",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-14-sage.png"
+      "name": "樱桃红",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-07-cherry-red-rounded.png"
     },
     {
-      "name": "Matcha",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-15-matcha.png"
+      "name": "石墨银灰",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-08-graphite-silver-rounded.png"
     },
     {
-      "name": "Olive Gold",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-16-olive-gold.png"
+      "name": "宝石蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-09-sapphire-rounded.png"
     },
     {
-      "name": "Honey",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-17-honey.png"
+      "name": "午夜蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-10-midnight-rounded.png"
     },
     {
-      "name": "Terracotta",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-18-terracotta.png"
+      "name": "冰川蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-11-glacier-rounded.png"
     },
     {
-      "name": "Burgundy",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-19-burgundy.png"
+      "name": "孔雀青",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-12-peacock-rounded.png"
     },
     {
-      "name": "Raspberry",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-20-raspberry.png"
+      "name": "松柏绿",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-13-pine-rounded.png"
     },
     {
-      "name": "Dusty Rose",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-21-dusty-rose.png"
+      "name": "鼠尾草",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-14-sage-rounded.png"
     },
     {
-      "name": "Grape",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-22-grape.png"
+      "name": "抹茶绿",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-15-matcha-rounded.png"
     },
     {
-      "name": "Iris",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-23-iris.png"
+      "name": "橄榄金",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-16-olive-gold-rounded.png"
     },
     {
-      "name": "Lavender",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-24-lavender.png"
+      "name": "蜜糖橙",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-17-honey-rounded.png"
     },
     {
-      "name": "Steel Blue",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-25-steel-blue.png"
+      "name": "陶土橘",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-18-terracotta-rounded.png"
     },
     {
-      "name": "Mocha",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-26-mocha.png"
+      "name": "勃艮第",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-19-burgundy-rounded.png"
     },
     {
-      "name": "Champagne",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-27-champagne.png"
+      "name": "覆盆莓",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-20-raspberry-rounded.png"
     },
     {
-      "name": "Obsidian",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-28-obsidian.png"
+      "name": "烟玫瑰",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-21-dusty-rose-rounded.png"
     },
     {
-      "name": "Pure Yellow",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-39-pure-yellow.png"
+      "name": "葡萄紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-22-grape-rounded.png"
     },
     {
-      "name": "Lemon Yellow",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-40-lemon-yellow.png"
+      "name": "鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-23-iris-rounded.png"
     },
     {
-      "name": "Sunflower Yellow",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-41-sunflower-yellow.png"
+      "name": "薰衣草",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-24-lavender-rounded.png"
     },
     {
-      "name": "Amber Yellow",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-42-amber-yellow.png"
+      "name": "雾霭蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-25-steel-blue-rounded.png"
     },
     {
-      "name": "Champagne Yellow",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-43-champagne-yellow.png"
+      "name": "摩卡棕",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-26-mocha-rounded.png"
     },
     {
-      "name": "Mustard Yellow",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/rex-square-44-mustard-yellow.png"
+      "name": "香槟金",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-27-champagne-rounded.png"
     },
     {
-      "name": "AVDB Play Blue",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/avdb-a-play-blue-1024.png"
+      "name": "曜石黑",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-28-obsidian-rounded.png"
     },
     {
-      "name": "AVDB Play Graphite",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/avdb-a-play-graphite-1024.png"
+      "name": "电光青",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-29-electric-cyan-rounded.png"
     },
     {
-      "name": "AVDB Play Violet",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/avdb-a-play-violet-1024.png"
+      "name": "深海碧",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-30-deep-turquoise-rounded.png"
     },
     {
-      "name": "AVDB Play Violet Mark",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/avdb-a-play-violet-mark-transparent.png"
+      "name": "桉叶绿",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-31-eucalyptus-rounded.png"
     },
     {
-      "name": "AVDB AV Ribbon Violet",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/avdb-av-ribbon-violet-1024.png"
+      "name": "青柠雪酪",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-32-lime-sherbet-rounded.png"
     },
     {
-      "name": "AVDB Media Library Violet",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/avdb-media-library-violet-1024.png"
+      "name": "焦糖橙",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-33-burnt-orange-rounded.png"
     },
     {
-      "name": "AVDB Premium Graphite",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/avdb-premium-graphite-1024.png"
+      "name": "赤铜红",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-34-copper-red-rounded.png"
     },
     {
-      "name": "AVDB Premium Plum Transparent",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/avdb-premium-plum-transparent.png"
+      "name": "桑葚紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-35-mulberry-rounded.png"
     },
     {
-      "name": "AVDB Wordmark",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/avdb-wordmark.png"
+      "name": "绛紫红",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-36-magenta-violet-rounded.png"
     },
     {
-      "name": "AVDB Premium Midnight",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/avdb-premium-midnight-1024.png"
+      "name": "长春花蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-37-periwinkle-rounded.png"
     },
     {
-      "name": "AVDB Premium Plum",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/avdb-premium-plum-1024.png"
+      "name": "暖石墨",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-38-warm-graphite-rounded.png"
     },
     {
-      "name": "Bilibili Classic Pink",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/B01-bilibili-classic-pink.png"
+      "name": "正黄色",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-39-pure-yellow-rounded.png"
     },
     {
-      "name": "Bilibili Sky Blue",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/B02-bilibili-sky-blue.png"
+      "name": "柠檬黄",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-40-lemon-yellow-rounded.png"
     },
     {
-      "name": "Bilibili Iris Violet",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/B03-bilibili-iris-violet.png"
+      "name": "向日葵黄",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-41-sunflower-yellow-rounded.png"
     },
     {
-      "name": "Douyin Classic",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/D01-douyin-classic.png"
+      "name": "琥珀黄",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-42-amber-yellow-rounded.png"
     },
     {
-      "name": "Douyin Glacier",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/D02-douyin-glacier.png"
+      "name": "香槟黄",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-43-champagne-yellow-rounded.png"
     },
     {
-      "name": "Douyin Rose",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/D03-douyin-rose.png"
+      "name": "芥末黄",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-44-mustard-yellow-rounded.png"
     },
     {
-      "name": "Hongguo Pearl 1",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/HG01-hongguo-pearl.png"
+      "name": "rex-square-pearl-01-ocean-blue",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/02-rex-pearl/rex-square-pearl-01-ocean-blue-rounded.png"
     },
     {
-      "name": "Hongguo Pearl 2",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/HG02-hongguo-pearl.png"
+      "name": "rex-square-pearl-02-lagoon-teal",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/02-rex-pearl/rex-square-pearl-02-lagoon-teal-rounded.png"
     },
     {
-      "name": "Hongguo Pearl 3",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/HG03-hongguo-pearl.png"
+      "name": "rex-square-pearl-03-jade-green",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/02-rex-pearl/rex-square-pearl-03-jade-green-rounded.png"
     },
     {
-      "name": "Huya Pearl 1",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/HY01-huya-pearl.png"
+      "name": "rex-square-pearl-04-amber-gold",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/02-rex-pearl/rex-square-pearl-04-amber-gold-rounded.png"
     },
     {
-      "name": "Huya Pearl 2",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/HY02-huya-pearl.png"
+      "name": "rex-square-pearl-05-coral-peach",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/02-rex-pearl/rex-square-pearl-05-coral-peach-rounded.png"
     },
     {
-      "name": "Huya Pearl 3",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/HY03-huya-pearl.png"
+      "name": "rex-square-pearl-06-rose-pink",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/02-rex-pearl/rex-square-pearl-06-rose-pink-rounded.png"
     },
     {
-      "name": "Honey Bear",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/K01-honey-bear.png"
+      "name": "rex-square-pearl-07-cherry-red",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/02-rex-pearl/rex-square-pearl-07-cherry-red-rounded.png"
     },
     {
-      "name": "Lilac Bunny",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/K02-lilac-bunny.png"
+      "name": "rex-square-pearl-08-graphite-silver",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/02-rex-pearl/rex-square-pearl-08-graphite-silver-rounded.png"
     },
     {
-      "name": "Play Blocks",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/K03-play-blocks.png"
+      "name": "B 站 · 经典粉",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/03-bilibili/B01-bilibili-classic-pink-rounded.png"
     },
     {
-      "name": "Happy Balloons",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/K04-happy-balloons.png"
+      "name": "B 站 · 晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/03-bilibili/B02-bilibili-sky-blue-rounded.png"
     },
     {
-      "name": "Candy Rainbow",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/K05-candy-rainbow.png"
+      "name": "B 站 · 鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/03-bilibili/B03-bilibili-iris-violet-rounded.png"
     },
     {
-      "name": "Smiling Sun",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/K06-smiling-sun.png"
+      "name": "抖音 · 经典黑红青",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/04-douyin/D01-douyin-classic-rounded.png"
     },
     {
-      "name": "Netease Pearl 1",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/NE01-netease-pearl.png"
+      "name": "抖音 · 冰青",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/04-douyin/D02-douyin-glacier-rounded.png"
     },
     {
-      "name": "Netease Pearl 2",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/NE02-netease-pearl.png"
+      "name": "抖音 · 玫红",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/04-douyin/D03-douyin-rose-rounded.png"
     },
     {
-      "name": "Netease Pearl 3",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/NE03-netease-pearl.png"
+      "name": "红果短剧 · 经典橙",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/05-hongguo/HG01-hongguo-pearl-rounded.png"
     },
     {
-      "name": "QQ Music Pearl 1",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/QM01-qqmusic-pearl.png"
+      "name": "红果短剧 · 桃花粉",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/05-hongguo/HG02-hongguo-pearl-rounded.png"
     },
     {
-      "name": "QQ Music Pearl 2",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/QM02-qqmusic-pearl.png"
+      "name": "红果短剧 · 翡翠青",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/05-hongguo/HG03-hongguo-pearl-rounded.png"
     },
     {
-      "name": "QQ Music Pearl 3",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/QM03-qqmusic-pearl.png"
+      "name": "网易云 · 经典红",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/06-netease/NE01-netease-pearl-rounded.png"
     },
     {
-      "name": "Tencent Orange Pink",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/TX01-orange-pink.png"
+      "name": "网易云 · 鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/06-netease/NE02-netease-pearl-rounded.png"
     },
     {
-      "name": "Tencent Orange Pink Transparent",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/TX01-orange-pink-transparent.png"
+      "name": "网易云 · 勃艮第",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/06-netease/NE03-netease-pearl-rounded.png"
     },
     {
-      "name": "Tencent Rose Pink",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/TX02-rose-pink.png"
+      "name": "QQ 音乐 · 经典黄绿",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/07-qqmusic/QM01-qqmusic-pearl-rounded.png"
     },
     {
-      "name": "Tencent Rose Pink Transparent",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/TX02-rose-pink-transparent.png"
+      "name": "QQ 音乐 · 冰湖蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/07-qqmusic/QM02-qqmusic-pearl-rounded.png"
     },
     {
-      "name": "Tencent Iris Violet",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/TX03-iris-violet.png"
+      "name": "QQ 音乐 · 香芋紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/07-qqmusic/QM03-qqmusic-pearl-rounded.png"
     },
     {
-      "name": "Tencent Iris Violet Transparent",
-      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/TX03-iris-violet-transparent.png"
+      "name": "虎牙直播 · 经典金",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/08-huya/HY01-huya-pearl-rounded.png"
+    },
+    {
+      "name": "虎牙直播 · 砂糖橘",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/08-huya/HY02-huya-pearl-rounded.png"
+    },
+    {
+      "name": "虎牙直播 · 极光青",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/08-huya/HY03-huya-pearl-rounded.png"
+    },
+    {
+      "name": "蜜糖小熊",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/09-children/K01-honey-bear-rounded.png"
+    },
+    {
+      "name": "软糖兔兔",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/09-children/K02-lilac-bunny-rounded.png"
+    },
+    {
+      "name": "缤纷积木",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/09-children/K03-play-blocks-rounded.png"
+    },
+    {
+      "name": "快乐气球",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/09-children/K04-happy-balloons-rounded.png"
+    },
+    {
+      "name": "糖果彩虹",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/09-children/K05-candy-rainbow-rounded.png"
+    },
+    {
+      "name": "笑脸太阳",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/09-children/K06-smiling-sun-rounded.png"
+    },
+    {
+      "name": "奶油原色",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/10-character-head/C01-cream-beige-rounded.png"
+    },
+    {
+      "name": "蜜桃粉",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/10-character-head/C02-peach-pink-rounded.png"
+    },
+    {
+      "name": "香芋紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/10-character-head/C03-lilac-purple-rounded.png"
+    },
+    {
+      "name": "薄荷青",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/10-character-head/C04-mint-teal-rounded.png"
+    },
+    {
+      "name": "奶酪黄",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/10-character-head/C05-custard-yellow-rounded.png"
+    },
+    {
+      "name": "雾海蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/10-character-head/C06-mist-blue-rounded.png"
+    },
+    {
+      "name": "奶油原色",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/11-character-fullbody/C01-cream-beige-rounded.png"
+    },
+    {
+      "name": "蜜桃粉",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/11-character-fullbody/C02-peach-pink-rounded.png"
+    },
+    {
+      "name": "香芋紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/11-character-fullbody/C03-lilac-purple-rounded.png"
+    },
+    {
+      "name": "薄荷青",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/11-character-fullbody/C04-mint-teal-rounded.png"
+    },
+    {
+      "name": "奶酪黄",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/11-character-fullbody/C05-custard-yellow-rounded.png"
+    },
+    {
+      "name": "雾海蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/11-character-fullbody/C06-mist-blue-rounded.png"
+    },
+    {
+      "name": "TX01-orange-pink",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/12-tangxin/TX01-orange-pink-rounded.png"
+    },
+    {
+      "name": "TX02-rose-pink",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/12-tangxin/TX02-rose-pink-rounded.png"
+    },
+    {
+      "name": "TX03-iris-violet",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/12-tangxin/TX03-iris-violet-rounded.png"
+    },
+    {
+      "name": "avdb-a-play-blue-1024",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/13-avdb-concepts/avdb-a-play-blue-1024-rounded.png"
+    },
+    {
+      "name": "avdb-a-play-graphite-1024",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/13-avdb-concepts/avdb-a-play-graphite-1024-rounded.png"
+    },
+    {
+      "name": "avdb-a-play-violet-1024",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/13-avdb-concepts/avdb-a-play-violet-1024-rounded.png"
+    },
+    {
+      "name": "avdb-av-ribbon-violet-1024",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/13-avdb-concepts/avdb-av-ribbon-violet-1024-rounded.png"
+    },
+    {
+      "name": "avdb-media-library-violet-1024",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/13-avdb-concepts/avdb-media-library-violet-1024-rounded.png"
+    },
+    {
+      "name": "avdb-premium-graphite-1024",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/14-avdb-premium/avdb-premium-graphite-1024-rounded.png"
+    },
+    {
+      "name": "avdb-premium-midnight-1024",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/14-avdb-premium/avdb-premium-midnight-1024-rounded.png"
+    },
+    {
+      "name": "avdb-premium-plum-1024",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/14-avdb-premium/avdb-premium-plum-1024-rounded.png"
+    },
+    {
+      "name": "avdb-premium-graphite-1024",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/15-avdb-refined/avdb-premium-graphite-1024-rounded.png"
+    },
+    {
+      "name": "avdb-premium-midnight-1024",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/15-avdb-refined/avdb-premium-midnight-1024-rounded.png"
+    },
+    {
+      "name": "avdb-premium-plum-1024",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/15-avdb-refined/avdb-premium-plum-1024-rounded.png"
+    },
+    {
+      "name": "REX · 正红色",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/01-rex-colors/rex-square-29-pure-red-rounded.png"
     }
   ]
 }

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>AVDB premium monogram / 午夜蓝</title>
+  <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F0EEF4" />
+      <stop offset=".48" stop-color="#FBFAFC" />
+      <stop offset="1" stop-color="#E8EBF0" />
+    </linearGradient>
+    <linearGradient id="mark" x1=".16" y1="0" x2=".76" y2="1">
+      <stop stop-color="#466B9A" />
+      <stop offset="1" stop-color="#203854" />
+    </linearGradient>
+    <linearGradient id="markEdge" x1="0" y1="0" x2=".9" y2="1">
+      <stop stop-color="#D7E7FF" stop-opacity=".60" />
+      <stop offset=".55" stop-color="#FFFFFF" stop-opacity=".08" />
+      <stop offset="1" stop-color="#0E0B20" stop-opacity=".24" />
+    </linearGradient>
+    <radialGradient id="pink"><stop stop-color="#F3A9C7" stop-opacity=".30" /><stop offset="1" stop-color="#F3A9C7" stop-opacity="0" /></radialGradient>
+    <radialGradient id="blue"><stop stop-color="#A9DCE6" stop-opacity=".18" /><stop offset="1" stop-color="#A9DCE6" stop-opacity="0" /></radialGradient>
+    <radialGradient id="warm"><stop stop-color="#F8D8A2" stop-opacity=".22" /><stop offset="1" stop-color="#F8D8A2" stop-opacity="0" /></radialGradient>
+    <radialGradient id="white"><stop stop-color="#FFFFFF" stop-opacity=".68" /><stop offset="1" stop-color="#FFFFFF" stop-opacity="0" /></radialGradient>
+    <filter id="shadow" x="-.2" y="-.2" width="1.4" height="1.4"><feGaussianBlur stdDeviation="7" /></filter>
+    <filter id="markShadow" x="-.2" y="-.2" width="1.4" height="1.4"><feGaussianBlur stdDeviation="3.5" /></filter>
+    <clipPath id="clip"><path d="M302 24H722C905 24 1000 119 1000 302V722C1000 905 905 1000 722 1000H302C119 1000 24 905 24 722V302C24 119 119 24 302 24Z" /></clipPath>
+    <mask id="markCut" maskUnits="userSpaceOnUse" x="0" y="0" width="1024" height="1024">
+      <rect width="1024" height="1024" fill="white" />
+      
+      <path d="M365 441Q365 430 376 436L481 493Q492 499 481 505L376 562Q365 568 365 557Z" fill="black" />
+    </mask>
+  </defs>
+  <path d="M302 24H722C905 24 1000 119 1000 302V722C1000 905 905 1000 722 1000H302C119 1000 24 905 24 722V302C24 119 119 24 302 24Z" transform="translate(0 7)" fill="#6B7483" opacity=".14" filter="url(#shadow)" />
+    <path d="M302 24H722C905 24 1000 119 1000 302V722C1000 905 905 1000 722 1000H302C119 1000 24 905 24 722V302C24 119 119 24 302 24Z" fill="url(#tile)" />
+    <g clip-path="url(#clip)">
+      <ellipse cx="110" cy="880" rx="370" ry="360" fill="url(#pink)" />
+      <ellipse cx="444" cy="925" rx="390" ry="300" fill="url(#warm)" />
+      <ellipse cx="826" cy="823" rx="300" ry="345" fill="url(#blue)" />
+      <ellipse cx="850" cy="180" rx="430" ry="430" fill="url(#white)" />
+      <ellipse cx="497" cy="507" rx="320" ry="290" fill="url(#white)" opacity=".18" />
+    </g>
+    <path d="M302 24H722C905 24 1000 119 1000 302V722C1000 905 905 1000 722 1000H302C119 1000 24 905 24 722V302C24 119 119 24 302 24Z" fill="none" stroke="#FFFFFF" stroke-opacity=".88" stroke-width="3" />
+    <path d="M302 24H722C905 24 1000 119 1000 302V722C1000 905 905 1000 722 1000H302C119 1000 24 905 24 722V302C24 119 119 24 302 24Z" fill="none" stroke="#B5BBC7" stroke-opacity=".25" stroke-width="2" transform="translate(0 -1)" />
+  <g transform="translate(-11 0)"><g transform="translate(0 3)" opacity=".10" filter="url(#markShadow)"><path d="M377 298Q413 230 449 298L612 645L775 292Q785 270 810 270H842Q863 270 854 291L661 713Q646 746 615 746H585Q554 746 539 713L489 604H339L289 713Q274 746 244 746H211Q180 746 193 718Z" fill="#171126" mask="url(#markCut)" /></g><g mask="url(#markCut)"><path d="M377 298Q413 230 449 298L612 645L775 292Q785 270 810 270H842Q863 270 854 291L661 713Q646 746 615 746H585Q554 746 539 713L489 604H339L289 713Q274 746 244 746H211Q180 746 193 718Z" fill="url(#mark)" />
+    <path d="M377 298Q413 230 449 298L612 645L775 292Q785 270 810 270H842Q863 270 854 291L661 713Q646 746 615 746H585Q554 746 539 713L489 604H339L289 713Q274 746 244 746H211Q180 746 193 718Z" fill="none" stroke="url(#markEdge)" stroke-opacity=".32" stroke-width="1.5" /></g></g>
+</svg>

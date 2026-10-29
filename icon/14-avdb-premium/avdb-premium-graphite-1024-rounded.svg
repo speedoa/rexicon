@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>AVDB premium monogram / 石墨灰</title>
+  <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F0EEF4" />
+      <stop offset=".48" stop-color="#FBFAFC" />
+      <stop offset="1" stop-color="#E8EBF0" />
+    </linearGradient>
+    <linearGradient id="mark" x1=".16" y1="0" x2=".76" y2="1">
+      <stop stop-color="#626F82" />
+      <stop offset=".54" stop-color="#626F82" />
+      <stop offset="1" stop-color="#202631" />
+    </linearGradient>
+    <linearGradient id="markEdge" x1="0" y1="0" x2=".9" y2="1">
+      <stop stop-color="#E6EBF4" stop-opacity=".60" />
+      <stop offset=".55" stop-color="#FFFFFF" stop-opacity=".08" />
+      <stop offset="1" stop-color="#0E0B20" stop-opacity=".24" />
+    </linearGradient>
+    <radialGradient id="pink"><stop stop-color="#F3A9C7" stop-opacity=".30" /><stop offset="1" stop-color="#F3A9C7" stop-opacity="0" /></radialGradient>
+    <radialGradient id="blue"><stop stop-color="#A9DCE6" stop-opacity=".18" /><stop offset="1" stop-color="#A9DCE6" stop-opacity="0" /></radialGradient>
+    <radialGradient id="warm"><stop stop-color="#F8D8A2" stop-opacity=".22" /><stop offset="1" stop-color="#F8D8A2" stop-opacity="0" /></radialGradient>
+    <radialGradient id="white"><stop stop-color="#FFFFFF" stop-opacity=".68" /><stop offset="1" stop-color="#FFFFFF" stop-opacity="0" /></radialGradient>
+    <filter id="shadow" x="-.2" y="-.2" width="1.4" height="1.4"><feGaussianBlur stdDeviation="7" /></filter>
+    <filter id="markShadow" x="-.2" y="-.2" width="1.4" height="1.4"><feGaussianBlur stdDeviation="11" /></filter>
+    <clipPath id="clip"><path d="M302 24H722C905 24 1000 119 1000 302V722C1000 905 905 1000 722 1000H302C119 1000 24 905 24 722V302C24 119 119 24 302 24Z" /></clipPath>
+    <mask id="markCut" maskUnits="userSpaceOnUse" x="0" y="0" width="1024" height="1024">
+      <rect width="1024" height="1024" fill="white" />
+      
+      <path d="M456 409Q456 394 470 402L582 468Q596 476 582 484L470 550Q456 558 456 543Z" fill="black" />
+      
+      <path d="M446 566H578L617 652H407Z" fill="black" />
+    </mask>
+  </defs>
+  <path d="M302 24H722C905 24 1000 119 1000 302V722C1000 905 905 1000 722 1000H302C119 1000 24 905 24 722V302C24 119 119 24 302 24Z" transform="translate(0 7)" fill="#6B7483" opacity=".14" filter="url(#shadow)" />
+    <path d="M302 24H722C905 24 1000 119 1000 302V722C1000 905 905 1000 722 1000H302C119 1000 24 905 24 722V302C24 119 119 24 302 24Z" fill="url(#tile)" />
+    <g clip-path="url(#clip)">
+      <ellipse cx="110" cy="880" rx="370" ry="360" fill="url(#pink)" />
+      <ellipse cx="444" cy="925" rx="390" ry="300" fill="url(#warm)" />
+      <ellipse cx="826" cy="823" rx="300" ry="345" fill="url(#blue)" />
+      <ellipse cx="850" cy="180" rx="430" ry="430" fill="url(#white)" />
+      <ellipse cx="497" cy="507" rx="320" ry="290" fill="url(#white)" opacity=".18" />
+    </g>
+    <path d="M302 24H722C905 24 1000 119 1000 302V722C1000 905 905 1000 722 1000H302C119 1000 24 905 24 722V302C24 119 119 24 302 24Z" fill="none" stroke="#FFFFFF" stroke-opacity=".88" stroke-width="3" />
+    <path d="M302 24H722C905 24 1000 119 1000 302V722C1000 905 905 1000 722 1000H302C119 1000 24 905 24 722V302C24 119 119 24 302 24Z" fill="none" stroke="#B5BBC7" stroke-opacity=".25" stroke-width="2" transform="translate(0 -1)" />
+  <path d="M512 220C493 220 475 232 465 251L267 657C255 683 273 711 302 711H395C414 711 431 699 439 681L470 611H554L585 681C593 699 610 711 629 711H722C751 711 769 683 757 657L559 251C549 232 531 220 512 220Z" fill="#171126" opacity=".18" filter="url(#markShadow)" transform="translate(0 12)" /><path d="M512 220C493 220 475 232 465 251L267 657C255 683 273 711 302 711H395C414 711 431 699 439 681L470 611H554L585 681C593 699 610 711 629 711H722C751 711 769 683 757 657L559 251C549 232 531 220 512 220Z" fill="url(#mark)" mask="url(#markCut)" />
+    <path d="M512 220C493 220 475 232 465 251L267 657C255 683 273 711 302 711H395C414 711 431 699 439 681L470 611H554L585 681C593 699 610 711 629 711H722C751 711 769 683 757 657L559 251C549 232 531 220 512 220Z" fill="none" stroke="url(#markEdge)" stroke-opacity=".62" stroke-width="3" />
+    <path d="M506 248C493 274 468 324 438 389" fill="none" stroke="#FFFFFF" stroke-opacity=".20" stroke-width="10" stroke-linecap="round" />
+</svg>

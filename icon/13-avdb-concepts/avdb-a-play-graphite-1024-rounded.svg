@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="AVDB a-play">
+    <title>AVDB a-play / graphite</title>
+    <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F0EEF5" /><stop offset=".50" stop-color="#F9F8FA" /><stop offset="1" stop-color="#E5E7EC" />
+    </linearGradient>
+    <linearGradient id="mark" x1=".18" y1="0" x2=".78" y2="1">
+      <stop stop-color="#525D70" /><stop offset="1" stop-color="#282F3E" />
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2=".65" y2="1">
+      <stop stop-color="#FFFFFF" stop-opacity=".96" /><stop offset=".55" stop-color="#FFFFFF" stop-opacity=".10" /><stop offset="1" stop-color="#B5BAC9" stop-opacity=".27" />
+    </linearGradient>
+    <radialGradient id="pink"><stop stop-color="#F7A5CA" stop-opacity=".76" /><stop offset="1" stop-color="#F7A5CA" stop-opacity="0" /></radialGradient>
+    <radialGradient id="peach"><stop stop-color="#FFE3B2" stop-opacity=".78" /><stop offset="1" stop-color="#FFE3B2" stop-opacity="0" /></radialGradient>
+    <radialGradient id="mint"><stop stop-color="#BBEAD9" stop-opacity=".49" /><stop offset="1" stop-color="#BBEAD9" stop-opacity="0" /></radialGradient>
+    <radialGradient id="shine"><stop stop-color="#FFFFFF" stop-opacity=".89" /><stop offset="1" stop-color="#FFFFFF" stop-opacity="0" /></radialGradient>
+    <clipPath id="tileClip"><path d="M300 22H724C909 22 1002 115 1002 300V724C1002 909 909 1002 724 1002H300C115 1002 22 909 22 724V300C22 115 115 22 300 22Z" /></clipPath>
+    <filter id="tileShadow" x="-.2" y="-.2" width="1.4" height="1.4"><feGaussianBlur stdDeviation="5" /></filter>
+    <mask id="aCounter" maskUnits="userSpaceOnUse" x="0" y="0" width="1024" height="1024">
+      <rect width="1024" height="1024" fill="white" />
+      <path d="M467 421Q467 407 480 415L594 484Q606 492 594 500L480 569Q467 577 467 563Z" fill="black" />
+    </mask>
+    <mask id="cardCounter" maskUnits="userSpaceOnUse" x="0" y="0" width="1024" height="1024">
+      <rect width="1024" height="1024" fill="white" />
+      <path d="M453 421Q453 405 468 414L583 486Q597 495 583 504L468 576Q453 585 453 569Z" fill="black" />
+    </mask>
+  </defs><path d="M300 22H724C909 22 1002 115 1002 300V724C1002 909 909 1002 724 1002H300C115 1002 22 909 22 724V300C22 115 115 22 300 22Z" transform="translate(0 4)" fill="#8790A1" opacity=".12" filter="url(#tileShadow)" />
+    <path d="M300 22H724C909 22 1002 115 1002 300V724C1002 909 909 1002 724 1002H300C115 1002 22 909 22 724V300C22 115 115 22 300 22Z" fill="url(#tile)" />
+    <g clip-path="url(#tileClip)">
+      <ellipse cx="120" cy="875" rx="395" ry="405" fill="url(#pink)" />
+      <ellipse cx="416" cy="900" rx="390" ry="330" fill="url(#peach)" />
+      <ellipse cx="731" cy="816" rx="280" ry="340" fill="url(#mint)" />
+      <ellipse cx="818" cy="225" rx="393" ry="434" fill="url(#shine)" />
+      <ellipse cx="524" cy="511" rx="300" ry="260" fill="url(#shine)" opacity=".30" />
+    </g>
+    <path d="M300 22H724C909 22 1002 115 1002 300V724C1002 909 909 1002 724 1002H300C115 1002 22 909 22 724V300C22 115 115 22 300 22Z" fill="none" stroke="url(#edge)" stroke-width="3" /><g mask="url(#aCounter)">
+      <path d="M478 269Q512 214 546 269L774 689Q787 714 759 714H666Q649 714 640 696L600 621H424L384 696Q375 714 358 714H265Q237 714 250 689Z" fill="url(#mark)" />
+    </g><g transform="translate(369 784)" fill="none" stroke="#3F4859" stroke-width="8.5" stroke-linecap="round" stroke-linejoin="round" opacity=".84">
+    <path d="M0 58 25 1 50 58M9 39H41" />
+    <path d="M72 1 97 58 122 1" />
+    <path d="M149 1V58H163C201 58 201 1 163 1Z" />
+    <path d="M222 1V58H245C277 58 277 30 245 30H222M222 1H243C273 1 273 30 243 30" />
+  </g>
+  </svg>

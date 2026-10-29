@@ -143,12 +143,136 @@
       "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/avdb-premium-plum-transparent.png"
     },
     {
+      "name": "AVDB Wordmark",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/avdb-wordmark.png"
+    },
+    {
       "name": "AVDB Premium Midnight",
       "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/avdb-premium-midnight-1024.png"
     },
     {
       "name": "AVDB Premium Plum",
       "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/avdb-premium-plum-1024.png"
+    },
+    {
+      "name": "Bilibili Classic Pink",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/B01-bilibili-classic-pink.png"
+    },
+    {
+      "name": "Bilibili Sky Blue",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/B02-bilibili-sky-blue.png"
+    },
+    {
+      "name": "Bilibili Iris Violet",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/B03-bilibili-iris-violet.png"
+    },
+    {
+      "name": "Douyin Classic",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/D01-douyin-classic.png"
+    },
+    {
+      "name": "Douyin Glacier",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/D02-douyin-glacier.png"
+    },
+    {
+      "name": "Douyin Rose",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/D03-douyin-rose.png"
+    },
+    {
+      "name": "Hongguo Pearl 1",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/HG01-hongguo-pearl.png"
+    },
+    {
+      "name": "Hongguo Pearl 2",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/HG02-hongguo-pearl.png"
+    },
+    {
+      "name": "Hongguo Pearl 3",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/HG03-hongguo-pearl.png"
+    },
+    {
+      "name": "Huya Pearl 1",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/HY01-huya-pearl.png"
+    },
+    {
+      "name": "Huya Pearl 2",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/HY02-huya-pearl.png"
+    },
+    {
+      "name": "Huya Pearl 3",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/HY03-huya-pearl.png"
+    },
+    {
+      "name": "Honey Bear",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/K01-honey-bear.png"
+    },
+    {
+      "name": "Lilac Bunny",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/K02-lilac-bunny.png"
+    },
+    {
+      "name": "Play Blocks",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/K03-play-blocks.png"
+    },
+    {
+      "name": "Happy Balloons",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/K04-happy-balloons.png"
+    },
+    {
+      "name": "Candy Rainbow",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/K05-candy-rainbow.png"
+    },
+    {
+      "name": "Smiling Sun",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/K06-smiling-sun.png"
+    },
+    {
+      "name": "Netease Pearl 1",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/NE01-netease-pearl.png"
+    },
+    {
+      "name": "Netease Pearl 2",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/NE02-netease-pearl.png"
+    },
+    {
+      "name": "Netease Pearl 3",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/NE03-netease-pearl.png"
+    },
+    {
+      "name": "QQ Music Pearl 1",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/QM01-qqmusic-pearl.png"
+    },
+    {
+      "name": "QQ Music Pearl 2",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/QM02-qqmusic-pearl.png"
+    },
+    {
+      "name": "QQ Music Pearl 3",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/QM03-qqmusic-pearl.png"
+    },
+    {
+      "name": "Tencent Orange Pink",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/TX01-orange-pink.png"
+    },
+    {
+      "name": "Tencent Orange Pink Transparent",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/TX01-orange-pink-transparent.png"
+    },
+    {
+      "name": "Tencent Rose Pink",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/TX02-rose-pink.png"
+    },
+    {
+      "name": "Tencent Rose Pink Transparent",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/TX02-rose-pink-transparent.png"
+    },
+    {
+      "name": "Tencent Iris Violet",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/TX03-iris-violet.png"
+    },
+    {
+      "name": "Tencent Iris Violet Transparent",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/TX03-iris-violet-transparent.png"
     }
   ]
 }

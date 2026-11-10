@@ -1,6 +1,6 @@
 {
   "name": "REX ICON图标",
-  "description": "REX ICON 图标库 · 共315个图标 by 模块分享频道 |Speedo | 更新日期：2026-11-10 ",
+  "description": "REX ICON 图标库 · 共329个图标 by 模块分享频道 |Speedo | 更新日期：2026-11-10 ",
   "icons": [
     {
       "name": "珠光·REX·兰花紫",
@@ -455,6 +455,18 @@
       "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/AVDB/%E8%BF%9E%E7%AC%94AV%C2%B7%E7%BF%A1%E7%BF%A0%E7%BB%BF.png"
     },
     {
+      "name": "珠光·YouTube·冰青蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/YouTube/YouTube%C2%B7%E5%86%B0%E9%9D%92%E8%93%9D.png"
+    },
+    {
+      "name": "珠光·YouTube·经典红",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/YouTube/YouTube%C2%B7%E7%BB%8F%E5%85%B8%E7%BA%A2.png"
+    },
+    {
+      "name": "珠光·YouTube·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/YouTube/YouTube%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
       "name": "珠光·B站·晴空蓝",
       "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/B%E7%AB%99/B%E7%AB%99%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
     },
@@ -489,6 +501,22 @@
     {
       "name": "珠光·红果·翡翠青",
       "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E7%BA%A2%E6%9E%9C/%E7%BA%A2%E6%9E%9C%C2%B7%E7%BF%A1%E7%BF%A0%E9%9D%92.png"
+    },
+    {
+      "name": "珠光·黄果·经典黄",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E9%BB%84%E6%9E%9C/%E9%BB%84%E6%9E%9C%C2%B7%E7%BB%8F%E5%85%B8%E9%BB%84.png"
+    },
+    {
+      "name": "珠光·直播·冰青蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E7%9B%B4%E6%92%AD/%E7%9B%B4%E6%92%AD%C2%B7%E5%86%B0%E9%9D%92%E8%93%9D.png"
+    },
+    {
+      "name": "珠光·直播·经典玫红",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E7%9B%B4%E6%92%AD/%E7%9B%B4%E6%92%AD%C2%B7%E7%BB%8F%E5%85%B8%E7%8E%AB%E7%BA%A2.png"
+    },
+    {
+      "name": "珠光·直播·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E7%9B%B4%E6%92%AD/%E7%9B%B4%E6%92%AD%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
     },
     {
       "name": "珠光·网易云·勃艮第红",
@@ -1131,6 +1159,18 @@
       "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/AVDB/%E8%BF%9E%E7%AC%94AV%C2%B7%E7%9F%B3%E5%A2%A8%E7%81%B0.png"
     },
     {
+      "name": "透明·YouTube·冰青蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/YouTube/YouTube%C2%B7%E5%86%B0%E9%9D%92%E8%93%9D.png"
+    },
+    {
+      "name": "透明·YouTube·经典红",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/YouTube/YouTube%C2%B7%E7%BB%8F%E5%85%B8%E7%BA%A2.png"
+    },
+    {
+      "name": "透明·YouTube·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/YouTube/YouTube%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
       "name": "透明·B站·晴空蓝",
       "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/B%E7%AB%99/B%E7%AB%99%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
     },
@@ -1165,6 +1205,22 @@
     {
       "name": "透明·红果·翡翠青",
       "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E7%BA%A2%E6%9E%9C/%E7%BA%A2%E6%9E%9C%C2%B7%E7%BF%A1%E7%BF%A0%E9%9D%92.png"
+    },
+    {
+      "name": "透明·黄果·经典黄",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E9%BB%84%E6%9E%9C/%E9%BB%84%E6%9E%9C%C2%B7%E7%BB%8F%E5%85%B8%E9%BB%84.png"
+    },
+    {
+      "name": "透明·直播·冰青蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E7%9B%B4%E6%92%AD/%E7%9B%B4%E6%92%AD%C2%B7%E5%86%B0%E9%9D%92%E8%93%9D.png"
+    },
+    {
+      "name": "透明·直播·经典玫红",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E7%9B%B4%E6%92%AD/%E7%9B%B4%E6%92%AD%C2%B7%E7%BB%8F%E5%85%B8%E7%8E%AB%E7%BA%A2.png"
+    },
+    {
+      "name": "透明·直播·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E7%9B%B4%E6%92%AD/%E7%9B%B4%E6%92%AD%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
     },
     {
       "name": "透明·网易云·勃艮第红",

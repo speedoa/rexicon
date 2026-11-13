@@ -1,6 +1,6 @@
 {
   "name": "REX ICON图标",
-  "description": "REX ICON 图标库 · 共374个图标 by 模块分享频道 |Speedo | 更新日期：2026-11-13 ",
+  "description": "REX ICON 图标库 · 共376个图标 by 模块分享频道 |Speedo | 更新日期：2026-11-13 ",
   "icons": [
     {
       "name": "珠光·REX·中灰",
@@ -653,6 +653,10 @@
     {
       "name": "珠光·儿童·积木·糖果多彩",
       "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E5%84%BF%E7%AB%A5/%E7%A7%AF%E6%9C%A8%C2%B7%E7%B3%96%E6%9E%9C%E5%A4%9A%E5%BD%A9.png"
+    },
+    {
+      "name": "珠光·小恐龙·珊瑚粉",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E5%B0%8F%E6%81%90%E9%BE%99/%E5%B0%8F%E6%81%90%E9%BE%99%C2%B7%E7%8F%8A%E7%91%9A%E7%B2%89.png"
     },
     {
       "name": "透明·REX·中灰",
@@ -1397,6 +1401,10 @@
     {
       "name": "透明·儿童·积木·糖果多彩",
       "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E5%84%BF%E7%AB%A5/%E7%A7%AF%E6%9C%A8%C2%B7%E7%B3%96%E6%9E%9C%E5%A4%9A%E5%BD%A9.png"
+    },
+    {
+      "name": "透明·小恐龙·纯白",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E5%B0%8F%E6%81%90%E9%BE%99/%E5%B0%8F%E6%81%90%E9%BE%99%C2%B7%E7%BA%AF%E7%99%BD.png"
     },
     {
       "name": "纯白·AVDB·AVDB字标",

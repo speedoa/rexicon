@@ -1,0 +1,782 @@
+{
+  "status": "complete",
+  "source_root": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/整合/图标总库/透明版",
+  "rex_excluded": true,
+  "source_nonrex_png": 51,
+  "unique_designs": 25,
+  "color": "#FFFFFF",
+  "original_files_unchanged": true,
+  "assets": [
+    {
+      "category": "AVDB",
+      "target": "AVDB/AVDB字标·纯白.png",
+      "source": "AVDB/AVDB字标·深紫.png",
+      "palette_variants": [
+        "AVDB/AVDB字标·深紫.png"
+      ],
+      "dimensions": [
+        1024,
+        270
+      ],
+      "color": "#FFFFFF",
+      "method": "原透明通道逐像素保留，仅将 RGB 改为纯白",
+      "sha256": "57dd6230f47f99d3c06d0291d06a0c6f800660ee0ea02cf2c70c5a3e81783a68",
+      "alpha_sha256": "d40c6a1225a6bcbf391514f05e31f5a471b60defca17926324e4db7ad7420fec",
+      "alpha_bbox": [
+        371,
+        102,
+        648,
+        168
+      ]
+    },
+    {
+      "category": "AVDB",
+      "target": "AVDB/A字·纯白.png",
+      "source": "AVDB/A字·湖蓝.png",
+      "palette_variants": [
+        "AVDB/A字·湖蓝.png",
+        "AVDB/A字·石墨灰.png",
+        "AVDB/A字·鸢尾紫.png"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "color": "#FFFFFF",
+      "method": "原透明通道逐像素保留，仅将 RGB 改为纯白",
+      "sha256": "461955575e88b00978bce684fdaee49b682dd68acd8575c0c48a1e907df74446",
+      "alpha_sha256": "4cdab26113dcc3660ba9ffadbef3c80c1ebe5ff6ffc3acf1ed8a0aa10c22fdad",
+      "alpha_bbox": [
+        245,
+        241,
+        779,
+        847
+      ]
+    },
+    {
+      "category": "AVDB",
+      "target": "AVDB/丝带AV·纯白.png",
+      "source": "AVDB/丝带AV·鸢尾紫.png",
+      "palette_variants": [
+        "AVDB/丝带AV·鸢尾紫.png"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "color": "#FFFFFF",
+      "method": "原透明通道逐像素保留，仅将 RGB 改为纯白",
+      "sha256": "5b7f5b3d9e42d997d0738c791df1abe64f1b32c8e9381f5914accf5da49c66e3",
+      "alpha_sha256": "ecf0cfaf221d01d516c2a2a6a2a08e6be07bc1c1ae9b66b91ddd68e70c5ae56c",
+      "alpha_bbox": [
+        194,
+        264,
+        830,
+        847
+      ]
+    },
+    {
+      "category": "AVDB",
+      "target": "AVDB/媒体库·纯白.png",
+      "source": "AVDB/媒体库·鸢尾紫.png",
+      "palette_variants": [
+        "AVDB/媒体库·鸢尾紫.png"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "color": "#FFFFFF",
+      "method": "原卡片轮廓；卡片间隙与播放符号转透明镂空",
+      "sha256": "10bee981b082024f7cd71872834d9deabfbf43c79a8317e435db30e89218c7f7",
+      "alpha_sha256": "653043d79b35bd9505fac34a4dcaa5d0ed7878c6eb1ea7da28c38fcb5f0621a0",
+      "alpha_bbox": [
+        273,
+        254,
+        765,
+        847
+      ]
+    },
+    {
+      "category": "AVDB",
+      "target": "AVDB/立体A·纯白.png",
+      "source": "AVDB/立体A·午夜蓝.png",
+      "palette_variants": [
+        "AVDB/立体A·午夜蓝.png",
+        "AVDB/立体A·梅子紫.png",
+        "AVDB/立体A·石墨灰.png"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "color": "#FFFFFF",
+      "method": "原矢量主体与播放孔洞；去掉彩色版阴影高光",
+      "sha256": "aaf6f5c6b9571a7a31fce9ca47c0de2d6c4bf87b137e2667c6e7e6742d356994",
+      "alpha_sha256": "b7d14d028c2387904bc3c44b0e10c2cb58a382305cd1f0fa9550099acefe75e0",
+      "alpha_bbox": [
+        263,
+        220,
+        761,
+        711
+      ]
+    },
+    {
+      "category": "AVDB",
+      "target": "AVDB/连笔AV·纯白.png",
+      "source": "AVDB/连笔AV·午夜蓝.png",
+      "palette_variants": [
+        "AVDB/连笔AV·午夜蓝.png",
+        "AVDB/连笔AV·梅子紫.png",
+        "AVDB/连笔AV·石墨灰.png"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "color": "#FFFFFF",
+      "method": "原矢量主体与播放孔洞；去掉彩色版阴影高光",
+      "sha256": "fd2ca183d622871893db8a438e089f5176fe2840bcf6d64f4c7c3f7ffef6dd0a",
+      "alpha_sha256": "1bcdd3ab1e45386f80440a8e3876ffb56c458cae22632f028053940588c9380b",
+      "alpha_bbox": [
+        178,
+        264,
+        846,
+        746
+      ]
+    },
+    {
+      "category": "B站",
+      "target": "B站/B站·纯白.png",
+      "source": "B站/B站·经典粉.png",
+      "palette_variants": [
+        "B站/B站·晴空蓝.png",
+        "B站/B站·经典粉.png",
+        "B站/B站·鸢尾紫.png"
+      ],
+      "dimensions": [
+        640,
+        640
+      ],
+      "color": "#FFFFFF",
+      "method": "原透明通道逐像素保留，仅将 RGB 改为纯白",
+      "sha256": "02fcca20b12953acad65de3cf560159b505e8577157420ebc8bcf8eea1e226ee",
+      "alpha_sha256": "97062fd149c266f3f90b075090129c176cf30a1785b046167b2121922e8e7dff",
+      "alpha_bbox": [
+        91,
+        111,
+        549,
+        519
+      ]
+    },
+    {
+      "category": "Pornhub",
+      "target": "Pornhub/Pornhub·纯白.png",
+      "source": "Pornhub/Pornhub·经典橙黑.png",
+      "palette_variants": [
+        "Pornhub/Pornhub·冰青蓝.png",
+        "Pornhub/Pornhub·经典橙黑.png",
+        "Pornhub/Pornhub·香槟金.png"
+      ],
+      "dimensions": [
+        640,
+        640
+      ],
+      "color": "#FFFFFF",
+      "method": "原 PH 组合轮廓；H 字母转透明镂空",
+      "sha256": "33b2ab3457539c1208462d0302d2ca794980e3e73c1b804b236505ecb3e85e55",
+      "alpha_sha256": "a91da3de2550d4819672cc07eb980ca817e312a9c637c8f31ac869e8d323ff37",
+      "alpha_bbox": [
+        105,
+        187,
+        545,
+        453
+      ]
+    },
+    {
+      "category": "QQ音乐",
+      "target": "QQ音乐/QQ音乐·纯白.png",
+      "source": "QQ音乐/QQ音乐·冰湖蓝.png",
+      "palette_variants": [
+        "QQ音乐/QQ音乐·冰湖蓝.png",
+        "QQ音乐/QQ音乐·经典黄绿.png",
+        "QQ音乐/QQ音乐·香芋紫.png"
+      ],
+      "dimensions": [
+        640,
+        640
+      ],
+      "color": "#FFFFFF",
+      "method": "原圆盘轮廓；音符转透明镂空",
+      "sha256": "89f6fe974bc80087245eac8be10223ad2963e2d09a85b43670649ffe6d749f21",
+      "alpha_sha256": "db091f8e411d73362fab042e8f3b1f2d9ef554295c634f3c733b670df291084d",
+      "alpha_bbox": [
+        96,
+        89,
+        544,
+        541
+      ]
+    },
+    {
+      "category": "儿童",
+      "target": "儿童/兔兔·纯白.png",
+      "source": "儿童/兔兔·香芋紫.png",
+      "palette_variants": [
+        "儿童/兔兔·香芋紫.png"
+      ],
+      "dimensions": [
+        640,
+        640
+      ],
+      "color": "#FFFFFF",
+      "method": "原绘制轮廓；五官、积木图形及气球高光转透明镂空",
+      "sha256": "94a68dfac187a1cf3a190bd31de2b247bec313985b002ef8911ed5fe9b3162ed",
+      "alpha_sha256": "9dcd5caaf825a6d28632e1095939ba3dae22e525ee8a239541b9fc2c6285c0cb",
+      "alpha_bbox": [
+        147,
+        88,
+        493,
+        530
+      ]
+    },
+    {
+      "category": "儿童",
+      "target": "儿童/太阳·纯白.png",
+      "source": "儿童/太阳·暖阳黄.png",
+      "palette_variants": [
+        "儿童/太阳·暖阳黄.png"
+      ],
+      "dimensions": [
+        640,
+        640
+      ],
+      "color": "#FFFFFF",
+      "method": "原绘制轮廓；五官、积木图形及气球高光转透明镂空",
+      "sha256": "9e4ce45d5bf3b40e82ac6edf6bde9611afe3c8c76e8d79e7c09aa2d168a00b03",
+      "alpha_sha256": "6bd05f0a99e614b2ffb845982baae153c58a4cdcf074301004482e42b235d8d4",
+      "alpha_bbox": [
+        83,
+        83,
+        557,
+        557
+      ]
+    },
+    {
+      "category": "儿童",
+      "target": "儿童/小熊·纯白.png",
+      "source": "儿童/小熊·蜜糖棕.png",
+      "palette_variants": [
+        "儿童/小熊·蜜糖棕.png"
+      ],
+      "dimensions": [
+        640,
+        640
+      ],
+      "color": "#FFFFFF",
+      "method": "原绘制轮廓；五官、积木图形及气球高光转透明镂空",
+      "sha256": "9e66d4e885c56d68e654b9cdf2b14f1add3afc8a82bd3a0b3a32f6cf3996721f",
+      "alpha_sha256": "e50fbb055b61fe32dde2b8aa51610ec66f2fca95cbcc70a8530c1a4d38ac92c8",
+      "alpha_bbox": [
+        122,
+        129,
+        518,
+        517
+      ]
+    },
+    {
+      "category": "儿童",
+      "target": "儿童/彩虹·纯白.png",
+      "source": "儿童/彩虹·糖果多彩.png",
+      "palette_variants": [
+        "儿童/彩虹·糖果多彩.png"
+      ],
+      "dimensions": [
+        640,
+        640
+      ],
+      "color": "#FFFFFF",
+      "method": "原绘制轮廓；五官、积木图形及气球高光转透明镂空",
+      "sha256": "ee2172a4b2aa68d053a9e6e48334df4cb61637ee45a4200f2efa84ed6e749475",
+      "alpha_sha256": "c4c546577181c3d5d32586e8b0b31647b04827e96f962b58605576e29ceb045d",
+      "alpha_bbox": [
+        89,
+        196,
+        551,
+        460
+      ]
+    },
+    {
+      "category": "儿童",
+      "target": "儿童/气球·纯白.png",
+      "source": "儿童/气球·糖果多彩.png",
+      "palette_variants": [
+        "儿童/气球·糖果多彩.png"
+      ],
+      "dimensions": [
+        640,
+        640
+      ],
+      "color": "#FFFFFF",
+      "method": "原绘制轮廓；五官、积木图形及气球高光转透明镂空",
+      "sha256": "4ea785ed4208bfd63045a98920c4d89739c5b5e58ac33ccf7c4197de50a33ba3",
+      "alpha_sha256": "f27b8047cfaab41cfdf11cd01e8b74c0d9da3e83aad449fa0666b5d92b25f7a5",
+      "alpha_bbox": [
+        116,
+        105,
+        524,
+        523
+      ]
+    },
+    {
+      "category": "儿童",
+      "target": "儿童/积木·纯白.png",
+      "source": "儿童/积木·糖果多彩.png",
+      "palette_variants": [
+        "儿童/积木·糖果多彩.png"
+      ],
+      "dimensions": [
+        640,
+        640
+      ],
+      "color": "#FFFFFF",
+      "method": "原绘制轮廓；五官、积木图形及气球高光转透明镂空",
+      "sha256": "90394d0d1fba91de03ebb585950ca1d9a406790107ebade6fadca4f276bff922",
+      "alpha_sha256": "97fdab8125411b5e8c988325679fe84dd14e859ceb548c879071b57e073792dd",
+      "alpha_bbox": [
+        117,
+        123,
+        520,
+        514
+      ]
+    },
+    {
+      "category": "抖音",
+      "target": "抖音/抖音·纯白.png",
+      "source": "抖音/抖音·经典黑红青.png",
+      "palette_variants": [
+        "抖音/抖音·冰川青.png",
+        "抖音/抖音·玫瑰红.png",
+        "抖音/抖音·经典黑红青.png"
+      ],
+      "dimensions": [
+        640,
+        640
+      ],
+      "color": "#FFFFFF",
+      "method": "原透明通道逐像素保留，仅将 RGB 改为纯白",
+      "sha256": "1c60f42a9911c69860359909fab6bbdd574929e3ab09dbc12005e375c80d8f57",
+      "alpha_sha256": "04c1d91421204f48b4761f7ab8c2db5b8504a9870f3d45c8b472aaf9b64cefcd",
+      "alpha_bbox": [
+        120,
+        89,
+        520,
+        541
+      ]
+    },
+    {
+      "category": "欧美",
+      "target": "欧美/欧美·双字徽标·纯白.png",
+      "source": "欧美/欧美·双字徽标.png",
+      "palette_variants": [
+        "欧美/欧美·双字徽标.png"
+      ],
+      "dimensions": [
+        640,
+        640
+      ],
+      "color": "#FFFFFF",
+      "method": "原透明通道逐像素保留，仅将 RGB 改为纯白",
+      "sha256": "28d5452d321a3e17168d30bd7d6596a5977079caf9941f7289b63269d9f101f6",
+      "alpha_sha256": "3485e88b14ddf11d7705ad83814d1ee66acd3d9612c96dff69e54b9b64ff8951",
+      "alpha_bbox": [
+        91,
+        199,
+        549,
+        474
+      ]
+    },
+    {
+      "category": "欧美",
+      "target": "欧美/欧美·票根·纯白.png",
+      "source": "欧美/欧美·票根.png",
+      "palette_variants": [
+        "欧美/欧美·票根.png"
+      ],
+      "dimensions": [
+        640,
+        640
+      ],
+      "color": "#FFFFFF",
+      "method": "原票根轮廓；内部文字、星形和装饰线转透明镂空",
+      "sha256": "3cba13d825522c0d0efc50a609c8434be6a2629f05e8a7ea4fe6ea7cde37a3e2",
+      "alpha_sha256": "72e4321787779448aae6323ccfe56d7e0fcb1135e7a1a853c241fb4ab287a8cb",
+      "alpha_bbox": [
+        73,
+        144,
+        568,
+        496
+      ]
+    },
+    {
+      "category": "欧美",
+      "target": "欧美/欧美·英文字标·纯白.png",
+      "source": "欧美/欧美·英文字标.png",
+      "palette_variants": [
+        "欧美/欧美·英文字标.png"
+      ],
+      "dimensions": [
+        640,
+        640
+      ],
+      "color": "#FFFFFF",
+      "method": "原透明通道逐像素保留，仅将 RGB 改为纯白",
+      "sha256": "425e422d197c97568591a2e7da7a2a107a1213bfe9c64c0011c2e827f6519138",
+      "alpha_sha256": "4c17b7b5ecc0d3500f35f4af754c6540bf1538c6e4eceea7699552dbe69c9587",
+      "alpha_bbox": [
+        142,
+        151,
+        499,
+        491
+      ]
+    },
+    {
+      "category": "糖心",
+      "target": "糖心/糖心·纯白.png",
+      "source": "糖心/糖心·橙粉渐变.png",
+      "palette_variants": [
+        "糖心/糖心·橙粉渐变.png",
+        "糖心/糖心·玫瑰粉.png",
+        "糖心/糖心·鸢尾紫.png"
+      ],
+      "dimensions": [
+        640,
+        640
+      ],
+      "color": "#FFFFFF",
+      "method": "原透明通道逐像素保留，仅将 RGB 改为纯白",
+      "sha256": "a24ba25a9cce43347322b43d5b74002606d230a33b17cc5bc42fb9f99aaf65cd",
+      "alpha_sha256": "248a96c88a2e8d102414c0d44905550e2a50f24b02982b4191df928edc7527d2",
+      "alpha_bbox": [
+        172,
+        91,
+        468,
+        539
+      ]
+    },
+    {
+      "category": "红果",
+      "target": "红果/红果·纯白.png",
+      "source": "红果/红果·经典橙.png",
+      "palette_variants": [
+        "红果/红果·桃花粉.png",
+        "红果/红果·经典橙.png",
+        "红果/红果·翡翠青.png"
+      ],
+      "dimensions": [
+        640,
+        640
+      ],
+      "color": "#FFFFFF",
+      "method": "原透明通道逐像素保留，仅将 RGB 改为纯白",
+      "sha256": "c937742fd91c15cda6db88af562bfb17ea99d8f131bd4dc6cd875d38633d0b3e",
+      "alpha_sha256": "27d1fb89831c54552eca199407baccfd9a2066992eb1db907edf3709c1732b80",
+      "alpha_bbox": [
+        100,
+        101,
+        540,
+        528
+      ]
+    },
+    {
+      "category": "网易云",
+      "target": "网易云/网易云·纯白.png",
+      "source": "网易云/网易云·经典红.png",
+      "palette_variants": [
+        "网易云/网易云·勃艮第红.png",
+        "网易云/网易云·经典红.png",
+        "网易云/网易云·鸢尾紫.png"
+      ],
+      "dimensions": [
+        640,
+        640
+      ],
+      "color": "#FFFFFF",
+      "method": "原透明通道逐像素保留，仅将 RGB 改为纯白",
+      "sha256": "cce963eb9d0262fb2023f519f81ff6630a1f3653391a5af7091eda641f8d75fd",
+      "alpha_sha256": "fbb0bb4abb95a397bea21cce8bb1626d5e1bdcbfc0e8f1c41b2fe2b1b236811c",
+      "alpha_bbox": [
+        112,
+        89,
+        528,
+        541
+      ]
+    },
+    {
+      "category": "虎牙",
+      "target": "虎牙/虎牙·纯白.png",
+      "source": "虎牙/虎牙·经典金.png",
+      "palette_variants": [
+        "虎牙/虎牙·极光青.png",
+        "虎牙/虎牙·砂糖橘.png",
+        "虎牙/虎牙·经典金.png"
+      ],
+      "dimensions": [
+        640,
+        640
+      ],
+      "color": "#FFFFFF",
+      "method": "原虎头轮廓与播放符号；虎纹嘴部转透明镂空",
+      "sha256": "fa4de95e93ec81438bf49e08887527ffc15e0b5fc55d72171cf6a83d2582a2f1",
+      "alpha_sha256": "0d9a366a9018385cb406c7c56c4776e8f1cc1f7956a567079571b419597d1219",
+      "alpha_bbox": [
+        94,
+        101,
+        546,
+        528
+      ]
+    },
+    {
+      "category": "直播",
+      "target": "直播/直播·纯白.png",
+      "source": "直播·经典玫红.png",
+      "source_root": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/直播图标·三款合集/透明版",
+      "palette_variants": [
+        "直播·冰青蓝.png",
+        "直播·经典玫红.png",
+        "直播·鸢尾紫.png"
+      ],
+      "dimensions": [
+        640,
+        640
+      ],
+      "color": "#FFFFFF",
+      "method": "原透明通道逐像素保留，电视、播放三角及右侧孔洞保持原样，仅将 RGB 改为纯白",
+      "sha256": "702eaa4e667063912e9747942489d6976d4c4222f14ad6b1f2f4f819b666fee2",
+      "alpha_sha256": "2cfba39349f397981e6926612f4f872a296c100077e315cab215c3eedf41989f",
+      "alpha_bbox": [
+        100,
+        95,
+        540,
+        535
+      ]
+    },
+    {
+      "category": "YouTube",
+      "target": "YouTube/YouTube·纯白.png",
+      "source": "YouTube·经典红.png",
+      "source_root": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/YouTube图标·三款合集/透明版",
+      "palette_variants": [
+        "YouTube·冰青蓝.png",
+        "YouTube·经典红.png",
+        "YouTube·鸢尾紫.png"
+      ],
+      "dimensions": [
+        640,
+        640
+      ],
+      "color": "#FFFFFF",
+      "method": "保留原播放按钮轮廓；原白色播放三角转透明镂空",
+      "sha256": "df6fa8c7d0682509bdf531fd6d22a13a0a57ef60c10598b8be6a4dedb5c42de0",
+      "alpha_sha256": "26e9f0810c0b6bef36ba99dfa53fec2f19b316bcecac1913d628186f812d857f",
+      "alpha_bbox": [
+        90,
+        154,
+        550,
+        476
+      ]
+    }
+  ],
+  "source_sha256": {
+    "AVDB/AVDB字标·深紫.png": "4755872bd56c92b6dc10e3e88d4a47fbaf6a3a3f2ed0b50b2c42fe6e4ac59553",
+    "AVDB/A字·湖蓝.png": "5253f2f8b0a8a1f9c8bbdce6091db9f4709428867eeaa37866ed90a4ddbef0e4",
+    "AVDB/A字·石墨灰.png": "dc60067cf8d524bf20a2f0cf1328a39e3efa1f07a6f7eab1a6a626a9088df62e",
+    "AVDB/A字·鸢尾紫.png": "e57a07c650469ce4fe335c26ba3652503f0d9543ee932adb0e5b0d0dfc0da545",
+    "AVDB/丝带AV·鸢尾紫.png": "e5a4c2a65760bc2e04fefae31870b80afdf5340f97202de12acba416be4bf864",
+    "AVDB/媒体库·鸢尾紫.png": "8ebca1a0a7c7cfcb5d170c0eb41dbc76264f9470e3a553c13921605432f858d3",
+    "AVDB/立体A·午夜蓝.png": "019e9346f893eb39a7a9f1c53d952e500061114ff56b366e779cf71845babf8b",
+    "AVDB/立体A·梅子紫.png": "ee5a3e42f955f0921787ddeaedcb644bfb921c77c50f3f603352e48ae5482e92",
+    "AVDB/立体A·石墨灰.png": "630dea7f90fd92cdc9aecae3ef696b49a389f2f29c3a98a69f1d3fffd2b89f8f",
+    "AVDB/连笔AV·午夜蓝.png": "935295693a281bd621f88b73f5da5928f3ee11d8b4e762c60a1374d80463b046",
+    "AVDB/连笔AV·梅子紫.png": "87b6a7c9c6f945175d161e14521308200c474c14c95ce348d8a83f01b48a4c76",
+    "AVDB/连笔AV·石墨灰.png": "760f9e827aa4fb3362bacd4ff31a10a389ba50cf10dc4dd56362b83cf6c5cb8c",
+    "B站/B站·晴空蓝.png": "0646fdcb0d1a7360df05e42074c2dd3df4d82ab13bd3aab45d0b90e4be7ec6c5",
+    "B站/B站·经典粉.png": "0543ea75b90dee7491c9169814e324a86beb5fd5994c43fe396597da12d5ae81",
+    "B站/B站·鸢尾紫.png": "3752a7a1b3841e0f740083415a2954aaad26971aff1baac892f119d0d291ed2a",
+    "Pornhub/Pornhub·冰青蓝.png": "4c90265176dc8bfbd1672d72ad557b11be55e49475d0f36b33770c9bdeb68e1a",
+    "Pornhub/Pornhub·经典橙黑.png": "591efc6c96faecdb3ae03b29c2637185ee5f9f4b3d4099760a5cea7fb8112477",
+    "Pornhub/Pornhub·香槟金.png": "3c8b980f5c22840a79b293f00be45904c223e68dfb2a5e14c2a8ae5c9d0d01a7",
+    "QQ音乐/QQ音乐·冰湖蓝.png": "ab57bee8dece4775580614afd436e87657c2ae857c1f5ff3391f3c8bf2d9a333",
+    "QQ音乐/QQ音乐·经典黄绿.png": "97714a8bdecf347fc7f1bf6e5be41876a7f0b6e17b346f3924797ee0313b1919",
+    "QQ音乐/QQ音乐·香芋紫.png": "040481749ab85e3b1103bec9d356b860aa2fdbb0b668deab5f21508ab2efe230",
+    "REX/中灰.png": "713b8660d91d53a50a8a216b384eae863e581f5b880952498b8c8c7d3f0c742f",
+    "REX/亮橙.png": "f5f561565f82a98c21fa8827347bf30693e0d93e0a66791d4e0e8948bd4a197c",
+    "REX/亮绿.png": "edfdb518301030f2885099d52b6e650b7ca34ec3ac05f86958a7217280c5ea7a",
+    "REX/兰花紫.png": "2e519abbd9bbd6dff17c8b15f6354246b2a751289242207c7ee5d4f7bb6fe595",
+    "REX/加强珠光·极光青.png": "2b26214d9d4675f0bddb4de778d1b84215e2a357aea84d889d9b12305126d81a",
+    "REX/加强珠光·樱桃红.png": "057e81abe5228ba769df7d8e6ba2d6f58f5c05b95823b35670e0c18ec0e1041e",
+    "REX/加强珠光·海洋蓝.png": "6bf3450a2372d439fddbf8144a9df33cd417d58a8e847d4b410659b947595218",
+    "REX/加强珠光·玫瑰粉.png": "673642c92cf01853ff94a78832c29f79b034cd14d66893fcfd70f44ddbd5b2ff",
+    "REX/加强珠光·珊瑚橙.png": "aed407918aa32a11d8fd0fbadcbbbeefc450116e4945b585b8b75c0fb2385ef5",
+    "REX/加强珠光·琥珀金.png": "3d99ec92178be514554fddf8e45e7dde6a96374a69ebe8e93a3e8e76515fa597",
+    "REX/加强珠光·石墨银灰.png": "a9449cf6a56143f274febb8cd021dfb6fe4e0215c5ba35fc300c4945566a8de9",
+    "REX/加强珠光·翡翠绿.png": "5eea3b32e1bc4aca096193c89a8df4cbb7a360c371d1a29aa933e00d5e4f951d",
+    "REX/原珠光·极光青.png": "92afe3466dcc3c5b04d71734c54792260380436f0ada941c94fa4b325321ecdc",
+    "REX/原珠光·樱桃红.png": "c577eaacedef856f3c6d02d334000e972d91f48950b2c3e28169d2808a08d4a7",
+    "REX/原珠光·海洋蓝.png": "b83179d712b8632c757a64e8c1bc06c0e9b8723832562b1881f1b9fd1b47a198",
+    "REX/原珠光·玫瑰粉.png": "6da3b31bf7b7c9826dd2427e12f6880c64c06826cb79f8203140870b5aa598dd",
+    "REX/原珠光·珊瑚橙.png": "35bc96a73e5297704348410abef850c1e918b1e3b7cb72f8c9f0d2038815ee26",
+    "REX/原珠光·琥珀金.png": "43cedef360607faeba4f66d087b2e032fd38a2942ccf46148f30dc22499db174",
+    "REX/原珠光·石墨银灰.png": "7c87f6ac891b80d38a174bf62e8cd74eee698c621ffee89e6c53effdd88dfe3b",
+    "REX/原珠光·翡翠绿.png": "53ba290b2edca7b863776fb8089d020cf369255f7f056fc6f6a4f445f1cf0df0",
+    "REX/可可棕.png": "7b823ce47ff8f70f565ad6f6f2069474bf1811b12281d3d36c7a373ff569672f",
+    "REX/孔雀石绿.png": "d96e4e66cf169098e593ddde5aae055224ec4c5a4ceec92191e9c313518b09be",
+    "REX/山茶红.png": "12e5814bc9722348b12bfac405e3a00e7b924ee645b80ced0dd84088a9f54380",
+    "REX/幻彩·冰川蓝.png": "356b49772d0de59415c0e674e037bb57e0316ae77660155237ef4dc1f902aab9",
+    "REX/幻彩·星云紫.png": "4b65d5ff812de67611a950df6ff478ffeeef4312a2dd8a693ff60ab605461fe0",
+    "REX/幻彩·极光幻彩.png": "280fe2c949f8c9606324cbf33d5fa16aa6d4339bea0941fa60c59cadf8ebf77e",
+    "REX/幻彩·烟岚蓝.png": "d0af718420f9a544ea768d162f3971f3d47db7ee6f461da383e5792f619867ac",
+    "REX/幻彩·玫瑰金.png": "ae8c56bb9c85ad163383867eb0f632ea528d0ff5720c9e724d5ba9b4343e0f68",
+    "REX/幻彩·薄荷玉.png": "20820c6a557556a13e32dce3c92b5920f6f7e7f04acc88c78b4f26a8360d799b",
+    "REX/幻彩·蜜桃粉.png": "4f924470bc630e10053d725015086bcad0666855edb32779103dc0013c5ea2aa",
+    "REX/幻彩·雾丁香.png": "aca70dd141ce5d7254737dfb3e8a7726ea997a47c4b9b9dc8b336d317c9db56f",
+    "REX/幻彩·青柠金.png": "fd5a91a40ba943cc261f48c0b0d288f94d7872808c2f6ecaeae703eea1883efc",
+    "REX/幻彩·香槟金.png": "bd1f27c4c862f8019de792fec0b54d92f6f55d145f04ac2b24e0d2fd07848f39",
+    "REX/开心果绿.png": "0f6984ee8c137d26d6c008a25afbc01ab0b2bb577684bccbed61867535ebc7d7",
+    "REX/普鲁士蓝.png": "9065997d117eec60cd97ff655bea75c8f6157a5bd392e3a7dd7b7551db174a95",
+    "REX/木槿紫.png": "ad37628f1ac9e9eccab15e24abac649ee3c7c02bee7ec13c2f037de604f469a1",
+    "REX/杏橙.png": "a5425f56ac7199a828c0cfea3ea27fb93e6bbba4350828d4ffd0258fe8071e78",
+    "REX/杜鹃粉.png": "0e81f1043df8b716fa37f8e0772841c1825f8c8aa181648c7249f35c4c12e749",
+    "REX/极光青.png": "7d2671d86a17f42a6e920e9f1e3cc5a1f965a8c7e3ad947e3f212e42c8237aaa",
+    "REX/柿子橙.png": "651bd2e23124eae643f03a5a8ec555562ddebc02cbff82551bff8fcdb8daf1ee",
+    "REX/栀子黄.png": "f257ceeaef3d4c108330c17f5f89e91b1647cafd7ada7cb1e4eeb4d05496955f",
+    "REX/栗壳棕.png": "227be363bb7cc2617d2d948407dac3267a75cac41477bc2385c4dac785ee7978",
+    "REX/樱桃红.png": "703bebe06cfcb646899c9f52e249702a62077c9fb9637fffb6321a85d11abd09",
+    "REX/洋红.png": "4b239f2c17b13b1d86480d526661d6a3020ef72c6b3ff6d5d5f058a40a4496c9",
+    "REX/浅兰花紫.png": "28026792a6af81c5588af897556f479b0c43812f6dcbfeffa12f903a7eebce25",
+    "REX/浅可可棕.png": "39e9837adc210af938160a5e68779bf4e88701f012dcd50799e175f4b0b7184f",
+    "REX/浅孔雀石绿.png": "fabcdf2b2d598a5a5cb1f74681bb8e1a2b863e1a1af331002213323cbc83a2c6",
+    "REX/浅山茶红.png": "591d6f0675652a66ab273d2400d9f582f769ce448ca56c9c022b98301291ae11",
+    "REX/浅开心果绿.png": "025814595f1886cd37a4e8ec8d1ba3c57b98c986ea7a9cabdc73c5114268bfa7",
+    "REX/浅普鲁士蓝.png": "d4f55e3e527a8c4aca0a8d5900868cee74bda8c61b9fe2cc955bdbeb5b13908b",
+    "REX/浅木槿紫.png": "3b6671ecb43ec7f6216c46c2d2bc68ae02ae7f6335a9aa4d6449cf93a9538c19",
+    "REX/浅杏橙.png": "d569bca6263c2b667db000f459d4bfc781f782b3ecb85895f56dbee48eba6be9",
+    "REX/浅杜鹃粉.png": "f4f9addcc5a39e08704e91128ad8781d90cc0502b5278714b131fd7f8b17a4cf",
+    "REX/浅柿子橙.png": "00a885e1c4695632186557ceabd2007a4cca174e41e03de128585d784570b0cf",
+    "REX/浅栀子黄.png": "63af8dc09ca2992114c7e6d71e6a26e36b50e0e498094ec7ff73c459a50d4649",
+    "REX/浅栗壳棕.png": "6d3cd9733d326e4fa57e3bce8b41058cd0eca04c6556d153f70b5a15d5393277",
+    "REX/浅海藻绿.png": "5a95fcf826f6f129b4664fec5500cc1fdebf75dbbb6600301ab37da30cbd6397",
+    "REX/浅湖水蓝.png": "93f3d1948b7543840a62910042e4aa886544404d13b2139c01d65b78ae376aa7",
+    "REX/浅玫瑰棕.png": "d8ecc8013af0c5d277063091f2b5971c89cd42871579a2f7c07e1d9d3291dac6",
+    "REX/浅石榴红.png": "f3ab9fca218c142fbf2fb0ad7ac9d2c5149aba99f74f5416b56eb72cd00e1b48",
+    "REX/浅竹叶绿.png": "adef237f674e7b09b838b7530e5420eb5df342221fad4685b43c6ea4401f4660",
+    "REX/浅紫水晶.png": "7d9c5d85967ea903ad2c1f25104bec197814cf2af190aed545804f1b6f9219e3",
+    "REX/浅紫灰.png": "ae4e83a9d8435b4a278c80d2aefe0efa71b1ef33e50965f26ecf07504a073ba2",
+    "REX/浅紫藤紫.png": "bc470b74ed1b96cd2c9b361aa7a32cd76bc8eeb3fb64b800b61686caf38217cf",
+    "REX/浅群青.png": "1029d740bc34775b6958dd536e782264c7aee2531021e1c17394c0dbcd0713a8",
+    "REX/浅胭脂红.png": "c19278924ba0c03038b2ca272532aa247a175a7b42661c2a17e44d710bb519ee",
+    "REX/浅苔原绿.png": "12eb527cf2c7ad3ba27fabbd44d8daf7e164607bd5d76747ee7557a2e9bda88a",
+    "REX/浅蓝灰.png": "54460796decc562313825a588f4909cf43175e2b5071b4d8e6746f8045ccfbe5",
+    "REX/浅蓝碧玺.png": "14fb190f70d68dc736cbbde0fb16c84bde9b2a21fa15d8774eb4ca525c7ceeb4",
+    "REX/浅蔓越莓红.png": "ec700eb0206dccb28980041404df2aba9524c6276cc38de6a2b833ba025f4981",
+    "REX/浅藏红花橙.png": "77f4aad5ae80ffa6cbef17945b5e876d6fcc191f76c53ac0e4038fcaf91ac9ba",
+    "REX/浅金盏黄.png": "fbb3e611bc92419a1bbb8831f66f4eb420c6ba71a86a3e7594e5da618dca0515",
+    "REX/浅钴蓝.png": "df1a7cfc36ec00b11d55380f60d768838cba08301457bb9e98479d19a28a95db",
+    "REX/浅龙胆紫.png": "ebd714481e058ea6c1d503510c93508a93ada1ca94e33028296fa6f6a5a8853f",
+    "REX/海洋蓝.png": "892c282e337393b93e5d7b0e92fb5da3a628f84b7bac5708f51e91f3b30a79fa",
+    "REX/海藻绿.png": "9e697b28cfa6d171c58f96abad603c890f9b72662f7021c2cf65b5fedbff29c6",
+    "REX/深兰花紫.png": "cedcbd473104bb4ea2ecb36a2f0de9a4ff6019b83457c727e68b43b1db1c5f90",
+    "REX/深可可棕.png": "92ab0a3c2a6a6e76b270e40f95881daec6e56fa86d0fdc082ca375687b725fcb",
+    "REX/深孔雀石绿.png": "24d3d6cfb064528b0ea24071423d3b6b4ba07f0a229b1fbc178a2406af24fa18",
+    "REX/深山茶红.png": "b897edef392c1f93c7592957bc4b9c0ebc010cb342d7aac8e5d2af0709555177",
+    "REX/深开心果绿.png": "c2f302b4c744eab37798e4505345f792bbf29b05166362b300d3b9752148b5a1",
+    "REX/深普鲁士蓝.png": "65d35bbbb53c29869811715e30d6f62430c2c7ea723ce8d81cda58de31c1d1f1",
+    "REX/深木槿紫.png": "b72b57b59aa811c1929780e7498e4ce9306400c9d3cb895d2405ce717a0c7277",
+    "REX/深杏橙.png": "efdd63996f59dffcc88227e0bacc4aa304e3dcf248ad8bd3d929b5474344eb12",
+    "REX/深杜鹃粉.png": "0b37adcfe3b06fef3194cab11c1e5f772917b0ebc047e1d735fdc9f1701f7b83",
+    "REX/深柿子橙.png": "6b670dfb891b68f82afd10780a0437c2580c92eeffffc8aa3725b26e5b4cab71",
+    "REX/深栀子黄.png": "4579a45e3eb986230139386fa7dbb33ac47fda6688ebc2617a9f503315955f6f",
+    "REX/深栗壳棕.png": "52f0220bfc427315121f2c47fa54b9d27de97abf1e1d6760ff2c0353b78c65cb",
+    "REX/深海藻绿.png": "9aeae2759919c6523914d46fd0005429f249ccbaa091fc353cfd24c442bf9c4a",
+    "REX/深湖水蓝.png": "a3689e83199a356bbb28d620563b96349129f7a89bae592ed26d44172d2d1999",
+    "REX/深玫瑰棕.png": "77b87bbe40c7f7d4c06c9c3684ddd35da3bf2c2a914e0a5c6e7bfab6e53adb98",
+    "REX/深石榴红.png": "d0b4a47808d535f180c9cfdaa045c2074a19ff6b86de00d4d9727407c927acb7",
+    "REX/深竹叶绿.png": "770a339043bc4d278f3024f94a9fdb444ebf41e8373d25f15a902c03c30f5901",
+    "REX/深紫水晶.png": "24dabde1cdeb291c2be64308658914d68fbec1427bada67a1ebcbd9f4fd52ca2",
+    "REX/深紫灰.png": "1e9be4451669c1664c489b28373547d61332acd6be29fd0b026347e44ceb251d",
+    "REX/深紫藤紫.png": "3ca60933b87b4de3ba748b6be7a34bcdcf3c1f19d5af8f2b42d41628e44705a4",
+    "REX/深群青.png": "f4c4b837385c7fc0c537ed2c16d09d905fe00ad9d6a92f4e1887f79114299b7d",
+    "REX/深胭脂红.png": "93c8651476c5c95be6e8ab94b7f55f7eed76d7667a027c669d477ae8b701fcc4",
+    "REX/深苔原绿.png": "138ed7d977df260f9af1bbd7e25942920fa0f5a80b1b714710ee89948672ce3e",
+    "REX/深蓝灰.png": "3f99b6920ec3d5ff63ed46ecab3f176a4996e5e6a9508fc8a6993cd0ab16a092",
+    "REX/深蓝碧玺.png": "76e12e77df0cfc14976bffb8e18c37556730fde95d4349276e238216a39632e4",
+    "REX/深蔓越莓红.png": "e8d5ab66ce4cb380cb0446269783f751cf157b42d0999ff7454e88e1b1cdc2d9",
+    "REX/深藏红花橙.png": "f1e2eccea35624886481f45f96b681d411f631f96f218852e712177bb9875a62",
+    "REX/深金盏黄.png": "974297d30a387d5f9b1f7e0b95e1fc446a557ad204936609a797bf20784ec2a6",
+    "REX/深钴蓝.png": "c94472330b89316e2481e8abc86bcc13edc33482ff2d02773549b3e9a4db642d",
+    "REX/深龙胆紫.png": "b732ce823efa62d6449615f651208da05900ec48cc53a53173ec89d155e2137a",
+    "REX/湖水蓝.png": "9ad07a4fe4060319ea9e753b122b2b9383b1713871a151b971201fe8fa55cb41",
+    "REX/玫瑰棕.png": "ee1c7862558d2dd6e7092a26b6d39989371f1fe7d337fe88095637af19e67dc4",
+    "REX/玫瑰粉.png": "d6901698eef5035c64dde15a8197252b9235d4a864e42902f3c3517859f60516",
+    "REX/珊瑚橙.png": "678fe123092b047816db6ed91f608cac362688a1bc0a1fdbe919158025d1ab4e",
+    "REX/琥珀金.png": "1dae1a43f3c7b5a87e69bee342ec57ffff3d8a7e0562cb5f92b7cb980cdd4e2a",
+    "REX/石墨银灰.png": "6632452f41737df0ddc796d2478c8b6426e60857cf664c9cd6a8a4cf1b0b48c0",
+    "REX/石榴红.png": "b666683fe0585733eeae7c3d546ceb0301f37fb5f8463b5a91b5d5d50986a5ed",
+    "REX/竹叶绿.png": "ddff3c52511a6e4ce001e9c05caabdbcf9534b70b621fdb8ac5cccff56867892",
+    "REX/紫水晶.png": "f6baa559cce15471ca88b338a03e33c53b265b903e7a52a8e8b9d8a7e9d7559d",
+    "REX/紫灰.png": "21e54d00eac2396200d2a267ce30a83ba03b88ee9d5d8e86fcc2adaac891b464",
+    "REX/紫藤紫.png": "f190f511405f941896fa2507a32703c46289096c2e4c07bd1e262a3a45015068",
+    "REX/纯白.png": "34c8d736129878fae2b8030cf26caa4a66217281290d1b12e0df1ee9004f99cd",
+    "REX/纯红.png": "1380a6ebb264239d4d8cc1704ec4bc11f559a7b01d1eaf1acf95fc53050fe73f",
+    "REX/纯蓝.png": "0fa5aedf70c66ca7fb1be360d2979ec00ab85746ba2cccdfaa569b15a37a63f0",
+    "REX/纯青.png": "6ba3648cf914780d40a962118b17a235ca44789d3d5dcd5883ae09148ca34989",
+    "REX/纯黄.png": "64eb3ce14074621a259eb8a3c1b0582299dc07111f49e69675d343b1d0f7fea2",
+    "REX/纯黑.png": "46dbee8b46d482a7e5a8edd319ffb0b26d0baa06221bfd5f6ef13f3cf3cd1589",
+    "REX/群青.png": "0098dc593122b6184c98d65af16721cdadca251d8d29e7f3370cc6bc6f3a9f0d",
+    "REX/翡翠绿.png": "6eb6f753f156517d2ea32ded853d579c370b933515b6b3205deda9a31f5810b3",
+    "REX/胭脂红.png": "ba083a5c70ff0638afc36b724c29fc67543a2920b5d52371ed81973ab28c0523",
+    "REX/苔原绿.png": "dacc8b419c5410feb728c5e3bf2b100d6d0585dae0a39e93fc77f943390169e9",
+    "REX/蓝灰.png": "eab291ee7282074ea89b1ae90c2bc3999bbc23fb1f7fd8fe9e7e832ea9d818a1",
+    "REX/蓝碧玺.png": "c41e12ef44d5a3bc26ca1e65a9715599c2214a8400b45b6055e1a10988ab872e",
+    "REX/蔓越莓红.png": "0f6493ac408e3965488a60e15ac9e3f3a0dfcd625807179b3614db45e86c078f",
+    "REX/藏红花橙.png": "15632db9fc92705d54a20bea6e1eeb5172bf161184cc36d9ed27237060f92c69",
+    "REX/金盏黄.png": "9f02f2e42fc63b3618a4dd96cec5b9a823120e27acd3c12cddd2b9b364419ebf",
+    "REX/钴蓝.png": "2dccb35b3b58d8031c460f03fd531a22423f40e1dbbef5f028028a1bad512c6c",
+    "REX/龙胆紫.png": "d865745d88e8fdce306676c255d0cbed5852c7db5320229823810513a8542b42",
+    "儿童/兔兔·香芋紫.png": "927cd61dfb6b5a53125f3a81f9fdd374e0a6b15b3be22213c0520f050d71562f",
+    "儿童/太阳·暖阳黄.png": "cfac1c4ed42d019524f6fc9d4afc0df75dd8262cc5f72994646eecdce970ea7d",
+    "儿童/小熊·蜜糖棕.png": "d13765e6f9c43ba5f7541ba0a52319f07b6566372192129dc8f895728e9e520b",
+    "儿童/彩虹·糖果多彩.png": "e0c894a6ab36555381c818e91af5d74843dbc4d9060f42e083223f7656664ce7",
+    "儿童/气球·糖果多彩.png": "3020e45a1e9e9d885def04937efeeaa7599b33fafdffad00cb5f7c87802f8704",
+    "儿童/积木·糖果多彩.png": "fd17c6341ec7649f472f8066dac7233e32aa11c52358c5a1059b4326b0c61477",
+    "抖音/抖音·冰川青.png": "95565cc8b872de4249d829d1fed59e0cdc83977223c98fbc3941981274b4ba92",
+    "抖音/抖音·玫瑰红.png": "697476401328db50cd0286f001e0d1a82311772763eef7dc28df646fd356e62b",
+    "抖音/抖音·经典黑红青.png": "18e25efe478fab966a18dace3539cee2b5d864df9232cd4cc3d162c606f39d7f",
+    "欧美/欧美·双字徽标.png": "6a653ee0c9d7495bb9ad8e0592b672c61cdfb7a0ccf074dce21d5e434b0e6512",
+    "欧美/欧美·票根.png": "9cb6a0c0bdce114c0c4d27d1eb8e02e99a57b02dfdd3d4fee7ac29579b73c2a0",
+    "欧美/欧美·英文字标.png": "c3146bfed5205ba2f117f494f933b184d331fb0d2cc6e9a3b741468a36e0f8cd",
+    "糖心/糖心·橙粉渐变.png": "c9bcc487e1232e0d5171fd4aeeb1d4deac3df176d5877604355af7994107ae67",
+    "糖心/糖心·玫瑰粉.png": "2b53fcbd7308edcc6ee0015c0b4e1d0fdb927e84743e2472a79a68141f5c9c69",
+    "糖心/糖心·鸢尾紫.png": "301c441e4cc967bff2e892d83800d206217cdbc653d90a5e730752e549f50d51",
+    "红果/红果·桃花粉.png": "08ad36fbf0a0f750cf3a8df99218280ac389084bd519ae72febaa89bfde298b9",
+    "红果/红果·经典橙.png": "e7aca011f89a0604192880b724767b42de39b981e42e8b76dff0e99c3b758210",
+    "红果/红果·翡翠青.png": "b0cd7de611b2304eaab3b6b3c9c6c855a7ca1f3286062bf1cd10e8ccf615fa21",
+    "网易云/网易云·勃艮第红.png": "457285306d032448dc0c54d44b251dd54dac3f4174e1d86b5686a5be2cd3b4db",
+    "网易云/网易云·经典红.png": "d22247e2ff4734efe6d4a738bda09fa999080cb63b0e70260640b7e2f54bcc07",
+    "网易云/网易云·鸢尾紫.png": "d6d2c8966221921a953b52c831af91247269031ee14d5df972b1dfdf40c77872",
+    "虎牙/虎牙·极光青.png": "3d4e5124fd30a9f07810d2baee884c5b2dcef92b25dc9fea27fb4b66af602f54",
+    "虎牙/虎牙·砂糖橘.png": "b36b5a79c91de6f9bf986b2ced662cca90bd169a3968c739cff9a39384f6d9ad",
+    "虎牙/虎牙·经典金.png": "d79d603ee867b079c1b17863d0b5c344cd0afd31eb713ce9223f9906fe4e06e3"
+  },
+  "additional_source_roots": {
+    "直播": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/直播图标·三款合集/透明版",
+    "YouTube": "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/YouTube图标·三款合集/透明版"
+  },
+  "additional_source_sha256": {
+    "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/直播图标·三款合集/透明版/直播·经典玫红.png": "23d13467dc908e3bea17159bbd0e0038f3fdc30e8e486a3af40343a6b0c4379d",
+    "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/直播图标·三款合集/透明版/直播·鸢尾紫.png": "4a9581cf7431337e0efcbb0895344c737a235ea98eb6d52ba9c8491181e604c1",
+    "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/直播图标·三款合集/透明版/直播·冰青蓝.png": "ae31bc776af95db780e10f32bf2dc3bff7183da5104b787eb68aa5c89a98a794",
+    "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/YouTube图标·三款合集/透明版/YouTube·经典红.png": "434a90014b954773edea11cf785e3412f980d666ec9c81d0b70485186fa4b799",
+    "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/YouTube图标·三款合集/透明版/YouTube·鸢尾紫.png": "ee9b9c3ae322213b3f7290d4fcf25b93019340c4b49ebbbea6c519ae0913c2bd",
+    "/Users/wangruoning1/Documents/Codex/2026-10-26/zhe/outputs/YouTube图标·三款合集/透明版/YouTube·冰青蓝.png": "1fe1223b581afbbb44cccb9b8e5f643ef79cc92732dd1c4b13b2bebc6d47b2bf"
+  }
+}

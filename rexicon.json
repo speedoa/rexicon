@@ -1,6 +1,6 @@
 {
   "name": "REX ICON图标",
-  "description": "REX ICON 图标库 · 共376个图标 by 模块分享频道 |Speedo | 更新日期：2026-11-13 ",
+  "description": "REX ICON 图标库 · 共481个图标 by 模块分享频道 |Speedo | 更新日期：2026-11-13 ",
   "icons": [
     {
       "name": "珠光·REX·中灰",
@@ -505,6 +505,186 @@
     {
       "name": "珠光·YouTube·鸢尾紫",
       "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/YouTube/YouTube%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "珠光·腾讯视频·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "珠光·腾讯视频·经典蓝绿橙",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%C2%B7%E7%BB%8F%E5%85%B8%E8%93%9D%E7%BB%BF%E6%A9%99.png"
+    },
+    {
+      "name": "珠光·腾讯视频·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "珠光·爱奇艺·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E7%88%B1%E5%A5%87%E8%89%BA/%E7%88%B1%E5%A5%87%E8%89%BA%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "珠光·爱奇艺·经典绿",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E7%88%B1%E5%A5%87%E8%89%BA/%E7%88%B1%E5%A5%87%E8%89%BA%C2%B7%E7%BB%8F%E5%85%B8%E7%BB%BF.png"
+    },
+    {
+      "name": "珠光·爱奇艺·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E7%88%B1%E5%A5%87%E8%89%BA/%E7%88%B1%E5%A5%87%E8%89%BA%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "珠光·优酷·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E4%BC%98%E9%85%B7/%E4%BC%98%E9%85%B7%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "珠光·优酷·经典蓝橙",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E4%BC%98%E9%85%B7/%E4%BC%98%E9%85%B7%C2%B7%E7%BB%8F%E5%85%B8%E8%93%9D%E6%A9%99.png"
+    },
+    {
+      "name": "珠光·优酷·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E4%BC%98%E9%85%B7/%E4%BC%98%E9%85%B7%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "珠光·芒果TV·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E8%8A%92%E6%9E%9CTV/%E8%8A%92%E6%9E%9CTV%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "珠光·芒果TV·经典橙",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E8%8A%92%E6%9E%9CTV/%E8%8A%92%E6%9E%9CTV%C2%B7%E7%BB%8F%E5%85%B8%E6%A9%99.png"
+    },
+    {
+      "name": "珠光·芒果TV·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E8%8A%92%E6%9E%9CTV/%E8%8A%92%E6%9E%9CTV%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "珠光·央视频·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E5%A4%AE%E8%A7%86%E9%A2%91/%E5%A4%AE%E8%A7%86%E9%A2%91%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "珠光·央视频·经典红",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E5%A4%AE%E8%A7%86%E9%A2%91/%E5%A4%AE%E8%A7%86%E9%A2%91%C2%B7%E7%BB%8F%E5%85%B8%E7%BA%A2.png"
+    },
+    {
+      "name": "珠光·央视频·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E5%A4%AE%E8%A7%86%E9%A2%91/%E5%A4%AE%E8%A7%86%E9%A2%91%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "珠光·央视网·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E5%A4%AE%E8%A7%86%E7%BD%91/%E5%A4%AE%E8%A7%86%E7%BD%91%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "珠光·央视网·经典红",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E5%A4%AE%E8%A7%86%E7%BD%91/%E5%A4%AE%E8%A7%86%E7%BD%91%C2%B7%E7%BB%8F%E5%85%B8%E7%BA%A2.png"
+    },
+    {
+      "name": "珠光·央视网·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E5%A4%AE%E8%A7%86%E7%BD%91/%E5%A4%AE%E8%A7%86%E7%BD%91%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "珠光·咪咕视频·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "珠光·咪咕视频·经典红蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91%C2%B7%E7%BB%8F%E5%85%B8%E7%BA%A2%E8%93%9D.png"
+    },
+    {
+      "name": "珠光·咪咕视频·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "珠光·1905电影网·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/1905%E7%94%B5%E5%BD%B1%E7%BD%91/1905%E7%94%B5%E5%BD%B1%E7%BD%91%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "珠光·1905电影网·经典蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/1905%E7%94%B5%E5%BD%B1%E7%BD%91/1905%E7%94%B5%E5%BD%B1%E7%BD%91%C2%B7%E7%BB%8F%E5%85%B8%E8%93%9D.png"
+    },
+    {
+      "name": "珠光·1905电影网·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/1905%E7%94%B5%E5%BD%B1%E7%BD%91/1905%E7%94%B5%E5%BD%B1%E7%BD%91%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "珠光·乐视视频·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E4%B9%90%E8%A7%86%E8%A7%86%E9%A2%91/%E4%B9%90%E8%A7%86%E8%A7%86%E9%A2%91%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "珠光·乐视视频·经典红",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E4%B9%90%E8%A7%86%E8%A7%86%E9%A2%91/%E4%B9%90%E8%A7%86%E8%A7%86%E9%A2%91%C2%B7%E7%BB%8F%E5%85%B8%E7%BA%A2.png"
+    },
+    {
+      "name": "珠光·乐视视频·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E4%B9%90%E8%A7%86%E8%A7%86%E9%A2%91/%E4%B9%90%E8%A7%86%E8%A7%86%E9%A2%91%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "珠光·搜狐视频·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E6%90%9C%E7%8B%90%E8%A7%86%E9%A2%91/%E6%90%9C%E7%8B%90%E8%A7%86%E9%A2%91%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "珠光·搜狐视频·经典黑红",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E6%90%9C%E7%8B%90%E8%A7%86%E9%A2%91/%E6%90%9C%E7%8B%90%E8%A7%86%E9%A2%91%C2%B7%E7%BB%8F%E5%85%B8%E9%BB%91%E7%BA%A2.png"
+    },
+    {
+      "name": "珠光·搜狐视频·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E6%90%9C%E7%8B%90%E8%A7%86%E9%A2%91/%E6%90%9C%E7%8B%90%E8%A7%86%E9%A2%91%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "珠光·好看视频·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E5%A5%BD%E7%9C%8B%E8%A7%86%E9%A2%91/%E5%A5%BD%E7%9C%8B%E8%A7%86%E9%A2%91%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "珠光·好看视频·经典多彩",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E5%A5%BD%E7%9C%8B%E8%A7%86%E9%A2%91/%E5%A5%BD%E7%9C%8B%E8%A7%86%E9%A2%91%C2%B7%E7%BB%8F%E5%85%B8%E5%A4%9A%E5%BD%A9.png"
+    },
+    {
+      "name": "珠光·好看视频·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E5%A5%BD%E7%9C%8B%E8%A7%86%E9%A2%91/%E5%A5%BD%E7%9C%8B%E8%A7%86%E9%A2%91%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "珠光·AcFun·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/AcFun/AcFun%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "珠光·AcFun·经典红",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/AcFun/AcFun%C2%B7%E7%BB%8F%E5%85%B8%E7%BA%A2.png"
+    },
+    {
+      "name": "珠光·AcFun·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/AcFun/AcFun%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "珠光·快手·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E5%BF%AB%E6%89%8B/%E5%BF%AB%E6%89%8B%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "珠光·快手·经典橙",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E5%BF%AB%E6%89%8B/%E5%BF%AB%E6%89%8B%C2%B7%E7%BB%8F%E5%85%B8%E6%A9%99.png"
+    },
+    {
+      "name": "珠光·快手·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E5%BF%AB%E6%89%8B/%E5%BF%AB%E6%89%8B%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "珠光·西瓜视频·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E8%A5%BF%E7%93%9C%E8%A7%86%E9%A2%91/%E8%A5%BF%E7%93%9C%E8%A7%86%E9%A2%91%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "珠光·西瓜视频·经典红",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E8%A5%BF%E7%93%9C%E8%A7%86%E9%A2%91/%E8%A5%BF%E7%93%9C%E8%A7%86%E9%A2%91%C2%B7%E7%BB%8F%E5%85%B8%E7%BA%A2.png"
+    },
+    {
+      "name": "珠光·西瓜视频·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E8%A5%BF%E7%93%9C%E8%A7%86%E9%A2%91/%E8%A5%BF%E7%93%9C%E8%A7%86%E9%A2%91%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "珠光·斗鱼·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E6%96%97%E9%B1%BC/%E6%96%97%E9%B1%BC%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "珠光·斗鱼·经典橙金",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E6%96%97%E9%B1%BC/%E6%96%97%E9%B1%BC%C2%B7%E7%BB%8F%E5%85%B8%E6%A9%99%E9%87%91.png"
+    },
+    {
+      "name": "珠光·斗鱼·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E7%8F%A0%E5%85%89%E7%89%88/%E6%96%97%E9%B1%BC/%E6%96%97%E9%B1%BC%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
     },
     {
       "name": "珠光·B站·晴空蓝",
@@ -1255,6 +1435,186 @@
       "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/YouTube/YouTube%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
     },
     {
+      "name": "透明·腾讯视频·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "透明·腾讯视频·经典蓝绿橙",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%C2%B7%E7%BB%8F%E5%85%B8%E8%93%9D%E7%BB%BF%E6%A9%99.png"
+    },
+    {
+      "name": "透明·腾讯视频·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "透明·爱奇艺·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E7%88%B1%E5%A5%87%E8%89%BA/%E7%88%B1%E5%A5%87%E8%89%BA%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "透明·爱奇艺·经典绿",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E7%88%B1%E5%A5%87%E8%89%BA/%E7%88%B1%E5%A5%87%E8%89%BA%C2%B7%E7%BB%8F%E5%85%B8%E7%BB%BF.png"
+    },
+    {
+      "name": "透明·爱奇艺·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E7%88%B1%E5%A5%87%E8%89%BA/%E7%88%B1%E5%A5%87%E8%89%BA%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "透明·优酷·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E4%BC%98%E9%85%B7/%E4%BC%98%E9%85%B7%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "透明·优酷·经典蓝橙",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E4%BC%98%E9%85%B7/%E4%BC%98%E9%85%B7%C2%B7%E7%BB%8F%E5%85%B8%E8%93%9D%E6%A9%99.png"
+    },
+    {
+      "name": "透明·优酷·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E4%BC%98%E9%85%B7/%E4%BC%98%E9%85%B7%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "透明·芒果TV·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E8%8A%92%E6%9E%9CTV/%E8%8A%92%E6%9E%9CTV%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "透明·芒果TV·经典橙",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E8%8A%92%E6%9E%9CTV/%E8%8A%92%E6%9E%9CTV%C2%B7%E7%BB%8F%E5%85%B8%E6%A9%99.png"
+    },
+    {
+      "name": "透明·芒果TV·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E8%8A%92%E6%9E%9CTV/%E8%8A%92%E6%9E%9CTV%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "透明·央视频·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E5%A4%AE%E8%A7%86%E9%A2%91/%E5%A4%AE%E8%A7%86%E9%A2%91%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "透明·央视频·经典红",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E5%A4%AE%E8%A7%86%E9%A2%91/%E5%A4%AE%E8%A7%86%E9%A2%91%C2%B7%E7%BB%8F%E5%85%B8%E7%BA%A2.png"
+    },
+    {
+      "name": "透明·央视频·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E5%A4%AE%E8%A7%86%E9%A2%91/%E5%A4%AE%E8%A7%86%E9%A2%91%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "透明·央视网·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E5%A4%AE%E8%A7%86%E7%BD%91/%E5%A4%AE%E8%A7%86%E7%BD%91%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "透明·央视网·经典红",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E5%A4%AE%E8%A7%86%E7%BD%91/%E5%A4%AE%E8%A7%86%E7%BD%91%C2%B7%E7%BB%8F%E5%85%B8%E7%BA%A2.png"
+    },
+    {
+      "name": "透明·央视网·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E5%A4%AE%E8%A7%86%E7%BD%91/%E5%A4%AE%E8%A7%86%E7%BD%91%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "透明·咪咕视频·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "透明·咪咕视频·经典红蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91%C2%B7%E7%BB%8F%E5%85%B8%E7%BA%A2%E8%93%9D.png"
+    },
+    {
+      "name": "透明·咪咕视频·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "透明·1905电影网·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/1905%E7%94%B5%E5%BD%B1%E7%BD%91/1905%E7%94%B5%E5%BD%B1%E7%BD%91%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "透明·1905电影网·经典蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/1905%E7%94%B5%E5%BD%B1%E7%BD%91/1905%E7%94%B5%E5%BD%B1%E7%BD%91%C2%B7%E7%BB%8F%E5%85%B8%E8%93%9D.png"
+    },
+    {
+      "name": "透明·1905电影网·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/1905%E7%94%B5%E5%BD%B1%E7%BD%91/1905%E7%94%B5%E5%BD%B1%E7%BD%91%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "透明·乐视视频·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E4%B9%90%E8%A7%86%E8%A7%86%E9%A2%91/%E4%B9%90%E8%A7%86%E8%A7%86%E9%A2%91%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "透明·乐视视频·经典红",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E4%B9%90%E8%A7%86%E8%A7%86%E9%A2%91/%E4%B9%90%E8%A7%86%E8%A7%86%E9%A2%91%C2%B7%E7%BB%8F%E5%85%B8%E7%BA%A2.png"
+    },
+    {
+      "name": "透明·乐视视频·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E4%B9%90%E8%A7%86%E8%A7%86%E9%A2%91/%E4%B9%90%E8%A7%86%E8%A7%86%E9%A2%91%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "透明·搜狐视频·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E6%90%9C%E7%8B%90%E8%A7%86%E9%A2%91/%E6%90%9C%E7%8B%90%E8%A7%86%E9%A2%91%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "透明·搜狐视频·经典黑红",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E6%90%9C%E7%8B%90%E8%A7%86%E9%A2%91/%E6%90%9C%E7%8B%90%E8%A7%86%E9%A2%91%C2%B7%E7%BB%8F%E5%85%B8%E9%BB%91%E7%BA%A2.png"
+    },
+    {
+      "name": "透明·搜狐视频·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E6%90%9C%E7%8B%90%E8%A7%86%E9%A2%91/%E6%90%9C%E7%8B%90%E8%A7%86%E9%A2%91%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "透明·好看视频·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E5%A5%BD%E7%9C%8B%E8%A7%86%E9%A2%91/%E5%A5%BD%E7%9C%8B%E8%A7%86%E9%A2%91%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "透明·好看视频·经典多彩",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E5%A5%BD%E7%9C%8B%E8%A7%86%E9%A2%91/%E5%A5%BD%E7%9C%8B%E8%A7%86%E9%A2%91%C2%B7%E7%BB%8F%E5%85%B8%E5%A4%9A%E5%BD%A9.png"
+    },
+    {
+      "name": "透明·好看视频·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E5%A5%BD%E7%9C%8B%E8%A7%86%E9%A2%91/%E5%A5%BD%E7%9C%8B%E8%A7%86%E9%A2%91%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "透明·AcFun·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/AcFun/AcFun%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "透明·AcFun·经典红",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/AcFun/AcFun%C2%B7%E7%BB%8F%E5%85%B8%E7%BA%A2.png"
+    },
+    {
+      "name": "透明·AcFun·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/AcFun/AcFun%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "透明·快手·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E5%BF%AB%E6%89%8B/%E5%BF%AB%E6%89%8B%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "透明·快手·经典橙",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E5%BF%AB%E6%89%8B/%E5%BF%AB%E6%89%8B%C2%B7%E7%BB%8F%E5%85%B8%E6%A9%99.png"
+    },
+    {
+      "name": "透明·快手·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E5%BF%AB%E6%89%8B/%E5%BF%AB%E6%89%8B%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "透明·西瓜视频·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E8%A5%BF%E7%93%9C%E8%A7%86%E9%A2%91/%E8%A5%BF%E7%93%9C%E8%A7%86%E9%A2%91%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "透明·西瓜视频·经典红",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E8%A5%BF%E7%93%9C%E8%A7%86%E9%A2%91/%E8%A5%BF%E7%93%9C%E8%A7%86%E9%A2%91%C2%B7%E7%BB%8F%E5%85%B8%E7%BA%A2.png"
+    },
+    {
+      "name": "透明·西瓜视频·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E8%A5%BF%E7%93%9C%E8%A7%86%E9%A2%91/%E8%A5%BF%E7%93%9C%E8%A7%86%E9%A2%91%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
+      "name": "透明·斗鱼·晴空蓝",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E6%96%97%E9%B1%BC/%E6%96%97%E9%B1%BC%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
+    },
+    {
+      "name": "透明·斗鱼·经典橙金",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E6%96%97%E9%B1%BC/%E6%96%97%E9%B1%BC%C2%B7%E7%BB%8F%E5%85%B8%E6%A9%99%E9%87%91.png"
+    },
+    {
+      "name": "透明·斗鱼·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/%E6%96%97%E9%B1%BC/%E6%96%97%E9%B1%BC%C2%B7%E9%B8%A2%E5%B0%BE%E7%B4%AB.png"
+    },
+    {
       "name": "透明·B站·晴空蓝",
       "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E7%89%88/B%E7%AB%99/B%E7%AB%99%C2%B7%E6%99%B4%E7%A9%BA%E8%93%9D.png"
     },
@@ -1433,6 +1793,66 @@
     {
       "name": "纯白·YouTube",
       "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E5%9B%BE%E6%A0%87%C2%B7%E7%BA%AF%E7%99%BD%E7%89%88/YouTube/YouTube%C2%B7%E7%BA%AF%E7%99%BD.png"
+    },
+    {
+      "name": "纯白·腾讯视频",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E5%9B%BE%E6%A0%87%C2%B7%E7%BA%AF%E7%99%BD%E7%89%88/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%C2%B7%E7%BA%AF%E7%99%BD.png"
+    },
+    {
+      "name": "纯白·爱奇艺",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E5%9B%BE%E6%A0%87%C2%B7%E7%BA%AF%E7%99%BD%E7%89%88/%E7%88%B1%E5%A5%87%E8%89%BA/%E7%88%B1%E5%A5%87%E8%89%BA%C2%B7%E7%BA%AF%E7%99%BD.png"
+    },
+    {
+      "name": "纯白·优酷",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E5%9B%BE%E6%A0%87%C2%B7%E7%BA%AF%E7%99%BD%E7%89%88/%E4%BC%98%E9%85%B7/%E4%BC%98%E9%85%B7%C2%B7%E7%BA%AF%E7%99%BD.png"
+    },
+    {
+      "name": "纯白·芒果TV",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E5%9B%BE%E6%A0%87%C2%B7%E7%BA%AF%E7%99%BD%E7%89%88/%E8%8A%92%E6%9E%9CTV/%E8%8A%92%E6%9E%9CTV%C2%B7%E7%BA%AF%E7%99%BD.png"
+    },
+    {
+      "name": "纯白·央视频",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E5%9B%BE%E6%A0%87%C2%B7%E7%BA%AF%E7%99%BD%E7%89%88/%E5%A4%AE%E8%A7%86%E9%A2%91/%E5%A4%AE%E8%A7%86%E9%A2%91%C2%B7%E7%BA%AF%E7%99%BD.png"
+    },
+    {
+      "name": "纯白·央视网",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E5%9B%BE%E6%A0%87%C2%B7%E7%BA%AF%E7%99%BD%E7%89%88/%E5%A4%AE%E8%A7%86%E7%BD%91/%E5%A4%AE%E8%A7%86%E7%BD%91%C2%B7%E7%BA%AF%E7%99%BD.png"
+    },
+    {
+      "name": "纯白·咪咕视频",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E5%9B%BE%E6%A0%87%C2%B7%E7%BA%AF%E7%99%BD%E7%89%88/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91%C2%B7%E7%BA%AF%E7%99%BD.png"
+    },
+    {
+      "name": "纯白·1905电影网",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E5%9B%BE%E6%A0%87%C2%B7%E7%BA%AF%E7%99%BD%E7%89%88/1905%E7%94%B5%E5%BD%B1%E7%BD%91/1905%E7%94%B5%E5%BD%B1%E7%BD%91%C2%B7%E7%BA%AF%E7%99%BD.png"
+    },
+    {
+      "name": "纯白·乐视视频",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E5%9B%BE%E6%A0%87%C2%B7%E7%BA%AF%E7%99%BD%E7%89%88/%E4%B9%90%E8%A7%86%E8%A7%86%E9%A2%91/%E4%B9%90%E8%A7%86%E8%A7%86%E9%A2%91%C2%B7%E7%BA%AF%E7%99%BD.png"
+    },
+    {
+      "name": "纯白·搜狐视频",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E5%9B%BE%E6%A0%87%C2%B7%E7%BA%AF%E7%99%BD%E7%89%88/%E6%90%9C%E7%8B%90%E8%A7%86%E9%A2%91/%E6%90%9C%E7%8B%90%E8%A7%86%E9%A2%91%C2%B7%E7%BA%AF%E7%99%BD.png"
+    },
+    {
+      "name": "纯白·好看视频",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E5%9B%BE%E6%A0%87%C2%B7%E7%BA%AF%E7%99%BD%E7%89%88/%E5%A5%BD%E7%9C%8B%E8%A7%86%E9%A2%91/%E5%A5%BD%E7%9C%8B%E8%A7%86%E9%A2%91%C2%B7%E7%BA%AF%E7%99%BD.png"
+    },
+    {
+      "name": "纯白·AcFun",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E5%9B%BE%E6%A0%87%C2%B7%E7%BA%AF%E7%99%BD%E7%89%88/AcFun/AcFun%C2%B7%E7%BA%AF%E7%99%BD.png"
+    },
+    {
+      "name": "纯白·快手",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E5%9B%BE%E6%A0%87%C2%B7%E7%BA%AF%E7%99%BD%E7%89%88/%E5%BF%AB%E6%89%8B/%E5%BF%AB%E6%89%8B%C2%B7%E7%BA%AF%E7%99%BD.png"
+    },
+    {
+      "name": "纯白·西瓜视频",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E5%9B%BE%E6%A0%87%C2%B7%E7%BA%AF%E7%99%BD%E7%89%88/%E8%A5%BF%E7%93%9C%E8%A7%86%E9%A2%91/%E8%A5%BF%E7%93%9C%E8%A7%86%E9%A2%91%C2%B7%E7%BA%AF%E7%99%BD.png"
+    },
+    {
+      "name": "纯白·斗鱼",
+      "url": "https://raw.githubusercontent.com/speedoa/rexicon/main/icon/%E9%80%8F%E6%98%8E%E5%9B%BE%E6%A0%87%C2%B7%E7%BA%AF%E7%99%BD%E7%89%88/%E6%96%97%E9%B1%BC/%E6%96%97%E9%B1%BC%C2%B7%E7%BA%AF%E7%99%BD.png"
     },
     {
       "name": "纯白·B站",
